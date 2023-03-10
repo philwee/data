@@ -1,0 +1,2126 @@
+﻿Name,Subindustry,Location,Year,Status,Season,Success
+Reddit,Consumer -> Content,"San Francisco, CA, USA",5,Acquired,S,1
+Kiko,B2B Software and Services -> Productivity,"Cambridge, MA, USA",5,Acquired,S,1
+Clickfacts,B2B Software and Services -> Security,"San Francisco, CA, USA",5,Acquired,S,1
+TextPayMe,Financial Technology -> Consumer Finance,"Redmond, WA, USA",5,Acquired,S,1
+Loopt,Consumer -> Social,"Mountain View, CA, USA",5,Acquired,S,1
+Infogami,B2B Software and Services -> Analytics,"London, England, United Kingdom",5,Not Success,S,0
+Memamp,B2B Software and Services,"Somerville, MA, USA",5,Not Success,S,0
+Simmery,Consumer -> Social,"Wallingford, CT, USA",5,Not Success,S,0
+Scribd,Consumer -> Content,"San Francisco, CA, USA",6,Active,S,0
+Omgpop,Consumer -> Gaming,"New York, NY, USA",6,Acquired,S,1
+Xobni,B2B Software and Services -> Productivity,"San Francisco, CA, USA",6,Acquired,S,1
+Jumpchat,Consumer -> Social,"Palo Alto, CA, USA",6,Not Success,S,0
+Likebetter,Consumer -> Gaming,"Cambridge, MA, USA",6,Not Success,S,0
+Zanbazaar,Consumer -> Home and Personal,"Boston, MA, USA",6,Not Success,S,0
+Pollground,Consumer -> Social,,6,Not Success,S,0
+Shoutfit,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",6,Not Success,S,0
+Talkito,Consumer -> Social,,6,Not Success,S,0
+Thinkature,B2B Software and Services -> Productivity,,6,Not Success,S,0
+Jamglue,Consumer -> Content,"Seattle, WA, USA",6,Not Success,S,0
+Wufoo,B2B Software and Services -> Marketing,"Tampa, FL, USA",6,Acquired,W,1
+Project Wedding,Consumer -> Home and Personal,"Bethesda, MD, USA",6,Acquired,W,1
+Clustrix,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",6,Acquired,W,1
+Inkling,B2B Software and Services -> Finance and Accounting,"Chicago, IL, USA",6,Acquired,W,1
+Audiobeta,B2B Software and Services -> Marketing,"Somerville, MA, USA",6,Not Success,W,0
+Flagr,Consumer -> Social,"NY, USA",6,Not Success,W,0
+Snipshot,Consumer -> Content,,6,Not Success,W,0
+Dropbox,B2B Software and Services -> Productivity,"San Francisco, CA, USA",7,Success,S,1
+Blue Frog Gaming,Consumer -> Gaming,"Akron, OH, USA",7,Active,S,0
+Anywhere.FM,Consumer -> Content,,7,Acquired,S,1
+Appjet,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",7,Acquired,S,1
+Clickpass,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",7,Acquired,S,1
+ZumoDrive,B2B Software and Services -> Productivity,"Burlingame, CA, USA",7,Acquired,S,1
+Disqus,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",7,Acquired,S,1
+Songkick,"Consumer -> Travel, Leisure and Tourism","England, United Kingdom",7,Acquired,S,1
+Biographicon,Consumer -> Content,,7,Not Success,S,0
+Eivod,"B2B Software and Services -> Engineering, Product and Design","Boston, MA, USA",7,Not Success,S,0
+Fuzzwich,Consumer -> Content,"Palo Alto, CA, USA",7,Not Success,S,0
+Meetyu,Consumer -> Social,,7,Not Success,S,0
+Reble,Consumer -> Content,"San Francisco, CA, USA",7,Not Success,S,0
+SocialPicks,Consumer -> Social,"New York, NY, USA",7,Not Success,S,0
+ContestMachine,B2B Software and Services -> Marketing,"Southfield, MI, USA",7,Not Success,S,0
+Splashup,Consumer -> Social,,7,Not Success,S,0
+iJigg/Top440,Consumer -> Social,"San Francisco, CA, USA",7,Not Success,S,0
+Hello Chair,Consumer -> Home and Personal,"San Francisco, CA, USA",7,Not Success,S,0
+Bountii,Consumer -> Home and Personal,"Watertown, MA, USA",7,Not Success,S,0
+Twitch,Consumer -> Content,"San Francisco, CA, USA",7,Acquired,W,1
+Weebly,B2B Software and Services -> Marketing,"San Francisco, CA, USA",7,Acquired,W,1
+Buxfer,Financial Technology -> Consumer Finance,"Santa Clara, CA, USA",7,Active,W,0
+Virtualmin,B2B Software and Services -> Infrastructure,"Mountain View, CA, USA",7,Active,W,0
+Heysan,Consumer -> Social,"San Francisco, CA, USA",7,Acquired,W,1
+Auctomatic,Consumer -> Home and Personal,"San Francisco, CA, USA",7,Acquired,W,1
+Zenter,B2B Software and Services -> Productivity,"Mountain View, CA, USA",7,Acquired,W,1
+Octopart,Industrials -> Manufacturing and Robotics,"New York, NY, USA",7,Acquired,W,1
+Socialmoth,Consumer -> Social,"San Francisco, CA, USA",7,Not Success,W,0
+View3,Industrials -> Manufacturing and Robotics,,7,Not Success,W,0
+Whitenoise,Consumer -> Social,"San Francisco, CA, USA",7,Not Success,W,0
+WriteWith,Consumer -> Content,"Corvallis, OR, USA",7,Not Success,W,0
+Tsumobi,Consumer -> Social,"Cambridge, MA, USA",7,Not Success,W,0
+Poll Everywhere,B2B Software and Services -> Analytics,Remote,8,Active,S,0
+BackType,B2B Software and Services -> Marketing,"San Francisco, CA, USA",8,Acquired,S,1
+JustSpotted,Consumer -> Content,"Copenhagen, Denmark",8,Acquired,S,1
+Cloudant,B2B Software and Services -> Infrastructure,"Boston, MA, USA",8,Acquired,S,1
+Posterous,Consumer -> Social,"San Francisco, CA, USA",8,Acquired,S,1
+Slinkset,Consumer -> Content,"San Francisco, CA, USA",8,Not Success,S,0
+Treehouse,Consumer -> Social,"Portland, OR, USA",8,Not Success,S,0
+PlayReader,Consumer -> Home and Personal,,8,Not Success,S,0
+People & Pages,Consumer -> Home and Personal,,8,Not Success,S,0
+Popcuts,Consumer -> Content,"Lucerne Valley, CA, USA",8,Not Success,S,0
+Snipd,B2B Software and Services -> Marketing,"Palo Alto, CA, USA",8,Not Success,S,0
+Ticket Stumbler,"Consumer -> Travel, Leisure and Tourism","Boston, MA, USA",8,Not Success,S,0
+Claimspotting,Consumer -> Gaming,Remote,8,Not Success,S,0
+Team Apart,B2B Software and Services -> Productivity,,8,Not Success,S,0
+Youlicit,Consumer -> Content,"New York, NY, USA",8,Not Success,S,0
+Precognate,Consumer -> Gaming,,8,Not Success,S,0
+Picwing,Consumer -> Social,"San Francisco, CA, USA",8,Not Success,S,0
+CO2Stats,"B2B Software and Services -> Engineering, Product and Design","Cambridge, MA, USA",8,Not Success,S,0
+Anyvite,Consumer -> Home and Personal,"Columbia, MD, USA",8,Not Success,S,0
+Frogmetrics,B2B Software and Services -> Retail,"NY, USA",8,Not Success,S,0
+Job Alchemist,B2B Software and Services -> Recruiting and Talent,,8,Not Success,S,0
+OhLife,Consumer -> Content,"San Francisco, CA, USA",8,Not Success,S,0
+Machine Zone,Consumer -> Gaming,"Palo Alto, CA, USA",8,Acquired,W,1
+Heroku,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",8,Acquired,W,1
+Ninite,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",8,Active,W,0
+RescueTime,B2B Software and Services -> Productivity,Remote,8,Active,W,0
+280 North,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",8,Acquired,W,1
+Omnisio,Consumer -> Content,"Atherton, CA, USA",8,Acquired,W,1
+A Thinking Ape,B2B Software and Services -> Marketing,Remote,8,Acquired,W,1
+BitSample,"B2B Software and Services -> Engineering, Product and Design",,8,Not Success,W,0
+Joberator,B2B Software and Services -> Recruiting and Talent,"Los Angeles, CA, USA",8,Not Success,W,0
+Insoshi,B2B Software and Services -> Productivity,,8,Not Success,W,0
+Snaptalent,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",8,Not Success,W,0
+YumDots,Consumer -> Gaming,"San Francisco, CA, USA",8,Not Success,W,0
+Deluux,Consumer -> Social,"Atlanta, GA, USA",8,Not Success,W,0
+Kirkland North,Consumer -> Gaming,"San Francisco, CA, USA",8,Not Success,W,0
+Tipjoy,Financial Technology -> Payments,,8,Not Success,W,0
+Mixwit,Consumer -> Content,,8,Not Success,W,0
+Socialbrowse,Consumer -> Social,,8,Not Success,W,0
+Wundrbar,B2B Software and Services -> Productivity,"San Francisco, CA, USA",8,Not Success,W,0
+FathomDB,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",8,Not Success,W,0
+MightyQuiz,Consumer -> Gaming,"San Francisco, CA, USA",8,Not Success,W,0
+Trigger,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",8,Not Success,W,0
+Airbnb,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",9,Success,W,1
+Volantio,B2B Software and Services -> Marketing,"Atlanta, GA, USA",9,Active,W,0
+Wattvision,Real Estate and Construction -> Housing and Real Estate,Remote,9,Active,W,0
+Cloudkick,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",9,Acquired,W,1
+Echodio,Consumer -> Content,"San Francisco, CA, USA",9,Acquired,W,1
+reMail,B2B Software and Services -> Productivity,"CA, USA",9,Acquired,W,1
+Divvyshot,Consumer -> Social,"San Francisco, CA, USA",9,Acquired,W,1
+Heyzap,Consumer -> Gaming,"San Francisco, CA, USA",9,Acquired,W,1
+PetaSales,B2B Software and Services -> Marketing,"San Francisco, CA, USA",9,Not Success,W,0
+Voxli,Consumer -> Gaming,"CA, USA",9,Not Success,W,0
+Nambii,Consumer -> Social,"San Francisco, CA, USA",9,Not Success,W,0
+Picurio,Consumer -> Social,"Mountain View, CA, USA",9,Not Success,W,0
+Spaces Life,Real Estate and Construction -> Housing and Real Estate,,9,Not Success,W,0
+Foodoro,Consumer -> Food and Beverage,"San Francisco, CA, USA",9,Not Success,W,0
+Skysheet,B2B Software and Services -> Productivity,,9,Not Success,W,0
+Recurious,Consumer -> Social,"Mountain View, CA, USA",9,Not Success,W,0
+Stripe,Financial Technology,"San Francisco, CA, USA",9,Active,S,0
+Mixpanel,B2B Software and Services -> Analytics,"San Francisco, CA, USA",9,Active,S,0
+WePay,Financial Technology -> Payments,"Redwood City, CA, USA",9,Acquired,S,1
+Lingt,Education,"San Francisco, CA, USA",9,Active,S,0
+RentHop,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",9,Active,S,0
+SSovereign,Healthcare -> Therapeutics,Remote,9,Active,S,0
+Olark,B2B Software and Services -> Retail,"Ann Arbor, MI, USA",9,Active,S,0
+Directed Edge,Consumer -> Home and Personal,"San Francisco, CA, USA",9,Active,S,0
+Listia,Consumer -> Home and Personal,"Campbell, CA, USA",9,Active,S,0
+Flightcaster,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",9,Acquired,S,1
+GraffitiGeo,Consumer -> Content,"Palo Alto, CA, USA",9,Acquired,S,1
+Lockitron,Consumer -> Consumer Electronics,"Palo Alto, CA, USA",9,Acquired,S,1
+RethinkDB,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",9,Acquired,S,1
+Bump,Consumer -> Social,"Mountain View, CA, USA",9,Acquired,S,1
+DailyBooth,Consumer -> Social,"San Francisco, CA, USA",9,Acquired,S,1
+Instantq,B2B Software and Services -> Retail,"San Francisco, CA, USA",9,Not Success,S,0
+Wakemate,Consumer -> Consumer Electronics,"San Francisco, CA, USA",9,Not Success,S,0
+Stackq,"B2B Software and Services -> Engineering, Product and Design",,9,Not Success,S,0
+AdThrow,B2B Software and Services -> Marketing,,9,Not Success,S,0
+RoboHR,B2B Software and Services -> Human Resources,,9,Not Success,S,0
+NudgePad,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",9,Not Success,S,0
+Plurchase,Consumer -> Social,"San Francisco, CA, USA",9,Not Success,S,0
+Fanchatter,B2B Software and Services -> Marketing,"Minneapolis, MN, USA",9,Not Success,S,0
+CarWoo,Consumer -> Transportation Services,"Burlingame, CA, USA",9,Not Success,S,0
+Jobspice,Consumer -> Job and Career Services,"San Francisco, CA, USA",9,Not Success,S,0
+HighlightCam,Consumer -> Content,"Mountain View, CA, USA",9,Not Success,S,0
+PagerDuty,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",10,Success,S,1
+Presto,B2B Software and Services -> Retail,"San Carlos, CA, USA",10,Success,S,1
+Docker,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",10,Active,S,0
+FutureAdvisor,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",10,Acquired,S,1
+WorkFlowy,B2B Software and Services -> Productivity,"San Francisco, CA, USA",10,Active,S,0
+inDinero,B2B Software and Services -> Finance and Accounting,Remote,10,Active,S,0
+AnyList,Consumer -> Home and Personal,Remote,10,Active,S,0
+DemandSphere,B2B Software and Services -> Marketing,"Columbus, OH, USA",10,Active,S,0
+Recurse Center,Education,"New York, NY, USA",10,Active,S,0
+AdGrok,B2B Software and Services -> Marketing,"San Francisco, CA, USA",10,Acquired,S,1
+Whereoscope,Consumer -> Social,"Mountain View, CA, USA",10,Acquired,S,1
+Fridge,Consumer -> Social,"San Francisco, CA, USA",10,Acquired,S,1
+Fanvibe,Consumer -> Social,"San Francisco, CA, USA",10,Acquired,S,1
+Leftronic,Consumer -> Consumer Electronics,"San Francisco, CA, USA",10,Acquired,S,1
+GazeHawk,"B2B Software and Services -> Engineering, Product and Design","Mountain View, CA, USA",10,Acquired,S,1
+1000Memories,Consumer -> Home and Personal,"San Francisco, CA, USA",10,Acquired,S,1
+Homejoy,Consumer -> Home and Personal,"San Francisco, CA, USA",10,Acquired,S,1
+PadMapper,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",10,Acquired,S,1
+AeroFS,B2B Software and Services -> Infrastructure,"Palo Alto, CA, USA",10,Acquired,S,1
+Simperium,B2B Software and Services -> Productivity,"San Francisco, CA, USA",10,Acquired,S,1
+Rapportive,B2B Software and Services -> Productivity,"San Francisco, CA, USA",10,Acquired,S,1
+Hipmunk,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",10,Acquired,S,1
+Chartio,B2B Software and Services -> Analytics,"San Francisco, CA, USA",10,Acquired,S,1
+Koduco,Consumer -> Gaming,"San Francisco, CA, USA",10,Not Success,S,0
+Pribbit,Consumer -> Social,,10,Not Success,S,0
+Tapzilla,B2B Software and Services -> Marketing,,10,Not Success,S,0
+MessageParty,Consumer -> Social,"New York, NY, USA",10,Not Success,S,0
+Ready For Zero,Financial Technology -> Consumer Finance,"Los Angeles, CA, USA",10,Not Success,S,0
+Post.fm,B2B Software and Services -> Productivity,Remote,10,Not Success,S,0
+Opzi,Consumer -> Gaming,"San Francisco, CA, USA",10,Not Success,S,0
+Upbeat,Consumer -> Content,"San Francisco, CA, USA",10,Not Success,S,0
+Gantto,B2B Software and Services -> Productivity,"San Francisco, CA, USA",10,Not Success,S,0
+Brushes,"B2B Software and Services -> Engineering, Product and Design",,10,Not Success,S,0
+Habit Labs,Consumer -> Social,"Seattle, WA, USA",10,Not Success,S,0
+Chirply,Consumer -> Home and Personal,"San Francisco, CA, USA",10,Not Success,S,0
+Teevox,Consumer -> Gaming,"Cupertino, CA, USA",10,Not Success,S,0
+Optimizely,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",10,Acquired,W,1
+OwnLocal,B2B Software and Services -> Marketing,"Austin, TX, USA",10,Active,W,0
+Etacts,B2B Software and Services -> Sales,"Palo Alto, CA, USA",10,Acquired,W,1
+Movity,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",10,Acquired,W,1
+Cardpool,Consumer -> Home and Personal,"San Francisco, CA, USA",10,Acquired,W,1
+Cue,Consumer -> Home and Personal,"San Francisco, CA, USA",10,Acquired,W,1
+Zencoder,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",10,Acquired,W,1
+Nowmov,Consumer -> Content,"San Francisco, CA, USA",10,Acquired,W,1
+Creative Market,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",10,Acquired,W,1
+Embedly,"B2B Software and Services -> Engineering, Product and Design","Boston, MA, USA",10,Acquired,W,1
+Bitplay,Consumer -> Social,"San Francisco, CA, USA",10,Acquired,W,1
+Crocodoc,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",10,Acquired,W,1
+All Screen,B2B Software and Services -> Marketing,"Santa Monica, CA, USA",10,Acquired,W,1
+500Friends,B2B Software and Services -> Retail,"San Francisco, CA, USA",10,Acquired,W,1
+Mertado,B2B Software and Services -> Retail,"Redwood City, CA, USA",10,Acquired,W,1
+Notifo,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",10,Not Success,W,0
+Infoharmoni,B2B Software and Services -> Marketing,"San Francisco, CA, USA",10,Not Success,W,0
+Newcope,Consumer -> Gaming,"Mountain View, CA, USA",10,Not Success,W,0
+Newslabs,"B2B Software and Services -> Engineering, Product and Design","Dublin, County Dublin, Ireland",10,Not Success,W,0
+Data Marketplace,B2B Software and Services -> Analytics,"San Francisco, CA, USA",10,Not Success,W,0
+Fithub,B2B Software and Services -> Retail,"Beijing, Beijing, China",10,Not Success,W,0
+Gamador,Consumer -> Gaming,"San Francisco, CA, USA",10,Not Success,W,0
+Zenedy,Consumer -> Content,"San Francisco, CA, USA",10,Not Success,W,0
+Answerly,Consumer -> Content,"San Francisco, CA, USA",10,Not Success,W,0
+LaunchHear,B2B Software and Services -> Operations,"San Francisco, CA, USA",10,Not Success,W,0
+Fabricly,B2B Software and Services -> Retail,"New York, NY, USA",10,Not Success,W,0
+Segment,B2B Software and Services -> Analytics,"San Francisco, CA, USA",11,Acquired,S,1
+GoCardless,Financial Technology -> Consumer Finance,"London, England, United Kingdom",11,Active,S,0
+Sift,B2B Software and Services -> Security,"San Francisco, CA, USA",11,Active,S,0
+Apollo,B2B Software and Services -> Infrastructure,Remote,11,Active,S,0
+Codecademy,Education,"New York, NY, USA",11,Acquired,S,1
+HackerRank,B2B Software and Services -> Recruiting and Talent,Remote,11,Active,S,0
+OneSignal,"B2B Software and Services -> Engineering, Product and Design","San Mateo, CA, USA",11,Active,S,0
+Vidyard,B2B Software and Services -> Marketing,"Kitchener, ON, Canada",11,Active,S,0
+Science Exchange,Healthcare -> Healthcare Services,Remote,11,Active,S,0
+Clerky,B2B Software and Services -> Legal,Remote,11,Active,S,0
+AgileMD,Healthcare -> Healthcare IT,"San Francisco, CA, USA",11,Active,S,0
+Quartzy,Healthcare -> Healthcare IT,"Hayward, CA, USA",11,Active,S,0
+Streak,B2B Software and Services -> Sales,Remote,11,Active,S,0
+Zeus,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",11,Active,S,0
+imgix,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",11,Active,S,0
+Videopixie,B2B Software and Services -> Marketing,"San Francisco, CA, USA",11,Active,S,0
+MixRank,B2B Software and Services,Remote,11,Active,S,0
+LeadGenius,B2B Software and Services -> Sales,"Berkeley, CA, USA",11,Active,S,0
+Pagelever,B2B Software and Services -> Analytics,"San Francisco, CA, USA",11,Acquired,S,1
+Firebase,B2B Software and Services -> Infrastructure,"Mountain View, CA, USA",11,Acquired,S,1
+Realm,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",11,Acquired,S,1
+Citus Data,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",11,Acquired,S,1
+Cryptoseal,B2B Software and Services -> Infrastructure,"Mountain View, CA, USA",11,Acquired,S,1
+Debteye,Financial Technology -> Consumer Finance,"Chicago, IL, USA",11,Acquired,S,1
+Aisle50,Consumer -> Home and Personal,"Chicago, IL, USA",11,Acquired,S,1
+Genius,Consumer -> Content,"NY, USA",11,Acquired,S,1
+Stypi,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Acquired,S,1
+Clutch,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",11,Acquired,S,1
+Freshplum,B2B Software and Services -> Analytics,"San Francisco, CA, USA",11,Acquired,S,1
+Automatic,Consumer -> Consumer Electronics,"San Francisco, CA, USA",11,Acquired,S,1
+Parse,"B2B Software and Services -> Engineering, Product and Design","Menlo Park, CA, USA",11,Acquired,S,1
+Perfect Audience,B2B Software and Services -> Marketing,"San Francisco, CA, USA",11,Acquired,S,1
+TapEngage,B2B Software and Services -> Marketing,"San Francisco, CA, USA",11,Acquired,S,1
+GlassMap,Consumer -> Social,"San Francisco, CA, USA",11,Acquired,S,1
+Compose,B2B Software and Services -> Infrastructure,"San Mateo, CA, USA",11,Acquired,S,1
+Launchpad Toys,Consumer -> Gaming,"San Francisco, CA, USA",11,Acquired,S,1
+Caviar,Consumer -> Food and Beverage,"San Francisco, CA, USA",11,Acquired,S,1
+Embark,Consumer -> Transportation Services,"San Francisco, CA, USA",11,Acquired,S,1
+Verbling,Education,"San Francisco, CA, USA",11,Acquired,S,1
+Fobo,Consumer -> Home and Personal,"San Francisco, CA, USA",11,Acquired,S,1
+Zenbox,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Not Success,S,0
+Dubjoy,B2B Software and Services -> Marketing,"San Francisco, CA, USA",11,Not Success,S,0
+Quad,Education,"San Francisco, CA, USA",11,Not Success,S,0
+PhoneSys,B2B Software and Services -> Infrastructure,"Mountain View, CA, USA",11,Not Success,S,0
+Proxino,B2B Software and Services -> Infrastructure,"Palo Alto, CA, USA",11,Not Success,S,0
+PayDragon,Consumer -> Food and Beverage,"Los Angeles, CA, USA",11,Not Success,S,0
+Zigfu,Consumer -> Gaming,"San Francisco, CA, USA",11,Not Success,S,0
+Picplum,Consumer -> Home and Personal,"San Francisco, CA, USA",11,Not Success,S,0
+Hungry Labs,Consumer -> Social,,11,Not Success,S,0
+Draft,B2B Software and Services -> Productivity,Remote,11,Not Success,S,0
+Rentobo,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",11,Not Success,S,0
+Snapjoy,Consumer -> Content,"Boulder, CO, USA",11,Not Success,S,0
+Ridejoy,Consumer -> Transportation Services,"San Francisco, CA, USA",11,Not Success,S,0
+Leaky,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",11,Not Success,S,0
+Vapor,Consumer -> Social,"NY, USA",11,Not Success,S,0
+Kicksend,Consumer -> Home and Personal,"Mountain View, CA, USA",11,Not Success,S,0
+Opez,Consumer -> Home and Personal,"San Francisco, CA, USA",11,Not Success,S,0
+Everyme,Consumer -> Social,"Mountain View, CA, USA",11,Not Success,S,0
+Interstate,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Not Success,S,0
+MarketBrief,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",11,Not Success,S,0
+GOAT Group,Consumer -> Apparel and Cosmetics,"Los Angeles, CA, USA",11,Active,W,0
+SingleStore,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",11,Active,W,0
+Fivestars,B2B Software and Services -> Retail,"San Francisco, CA, USA",11,Acquired,W,1
+HelloSign,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Acquired,W,1
+DrChrono,Healthcare -> Healthcare IT,Remote,11,Acquired,W,1
+Storyworth,Consumer -> Home and Personal,Remote,11,Active,W,0
+Zerocater,B2B Software and Services -> Office Management,"San Francisco, CA, USA",11,Active,W,0
+Mino Games,Consumer -> Gaming,"Montreal, QC, Canada",11,Active,W,0
+Close,B2B Software and Services -> Sales,Remote,11,Active,W,0
+Tremendous,Financial Technology -> Payments,Remote,11,Active,W,0
+You Got Listings,Real Estate and Construction -> Housing and Real Estate,Remote,11,Active,W,0
+Instapainting,Consumer -> Home and Personal,Remote,11,Active,W,0
+Acunote,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Active,W,0
+Tumult,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",11,Active,W,0
+AppHarbor,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",11,Active,W,0
+Talkable,B2B Software and Services -> Retail,"San Francisco, CA, USA",11,Active,W,0
+TalkBin,B2B Software and Services -> Retail,"Mountain View, CA, USA",11,Acquired,W,1
+OrderAhead,Consumer -> Food and Beverage,"San Francisco, CA, USA",11,Acquired,W,1
+Lanyrd,Consumer -> Job and Career Services,"London, England, United Kingdom",11,Acquired,W,1
+Mailgun,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",11,Acquired,W,1
+Apportable,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",11,Acquired,W,1
+Pebble,Consumer -> Consumer Electronics,"Palo Alto, CA, USA",11,Acquired,W,1
+Humble Bundle,Consumer -> Gaming,"San Francisco, CA, USA",11,Acquired,W,1
+Comprehend,Healthcare -> Healthcare IT,"Redwood City, CA, USA",11,Acquired,W,1
+Custora,B2B Software and Services -> Analytics,"New York, NY, USA",11,Acquired,W,1
+Hotspots,B2B Software and Services -> Marketing,"San Francisco, CA, USA",11,Acquired,W,1
+Sendoid,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Acquired,W,1
+Earbits,B2B Software and Services -> Marketing,"Los Angeles, CA, USA",11,Acquired,W,1
+Upverter,"B2B Software and Services -> Engineering, Product and Design","Toronto, ON, Canada",11,Acquired,W,1
+SimplyListed,Consumer -> Home and Personal,"San Francisco, CA, USA",11,Not Success,W,0
+Venuetastic,B2B Software and Services -> Office Management,"San Francisco, CA, USA",11,Not Success,W,0
+Siasto,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Not Success,W,0
+TrustEgg,Financial Technology -> Asset Management,"Culver City, CA, USA",11,Not Success,W,0
+Tutorspree,Education,"Chicago, IL, USA",11,Not Success,W,0
+Balanced,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",11,Not Success,W,0
+Flotype,B2B Software and Services -> Retail,"San Jose, CA, USA",11,Not Success,W,0
+Convore,Consumer -> Social,"San Francisco, CA, USA",11,Not Success,W,0
+Insight Data Science,Education,"Palo Alto, CA, USA",11,Not Success,W,0
+Hyperink,Consumer -> Content,"San Francisco, CA, USA",11,Not Success,W,0
+FitFu,Consumer -> Gaming,"Ringwood, NJ, USA",11,Not Success,W,0
+Assembled,Consumer -> Social,"Palo Alto, CA, USA",11,Not Success,W,0
+TellFi,B2B Software and Services -> Productivity,"San Francisco, CA, USA",11,Not Success,W,0
+Beetailer,B2B Software and Services -> Retail,"Mountain View, CA, USA",11,Not Success,W,0
+Inporia,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",11,Not Success,W,0
+Userfox,B2B Software and Services -> Marketing,"San Francisco, CA, USA",11,Not Success,W,0
+ClassDojo,Education,Remote,12,Active,I,0
+RaiseMe,Education,"San Francisco, CA, USA",12,Active,I,0
+The Rumie Initiative,Education,"Toronto, ON, Canada",12,Active,I,0
+Sense,Education,"Boston, MA, USA",12,Active,I,0
+Next Tech,Education,"Oakland, CA, USA",12,Active,I,0
+Allcancode,"B2B Software and Services -> Engineering, Product and Design",Remote,12,Active,I,0
+Sown To Grow,Education,"Oakland, CA, USA",12,Active,I,0
+Swing Education,Education,"San Mateo, CA, USA",12,Active,I,0
+KickUp,Education,"Philadelphia, PA, USA",12,Active,I,0
+ProjectPro,Education,Remote,12,Active,I,0
+Tickle,Education,"San Francisco, CA, USA",12,Active,I,0
+Mosa Mack Science,Education,Remote,12,Active,I,0
+AdmitSee,Education,"San Francisco, CA, USA",12,Active,I,0
+Trinket,Education,Remote,12,Active,I,0
+ReadWorks,Education,"New York, NY, USA",12,Active,I,0
+Educents,Education,"San Francisco, CA, USA",12,Active,I,0
+Formative,Education,"Inglewood, CA, USA",12,Active,I,0
+Peekapak,Education,"Toronto, ON, Canada",12,Active,I,0
+TeachMe,Education,"Edmonton, AB, Canada",12,Active,I,0
+Bloomboard,Education,"Pittsburgh, PA, USA",12,Active,I,0
+DeansList,Education,"New York, NY, USA",12,Active,I,0
+Classkick,Education,"Chicago, IL, USA",12,Active,I,0
+Class Central,Education,"Mountain View, CA, USA",12,Active,I,0
+Edoome,Education,"Palo Alto, CA, USA",12,Active,I,0
+Edpuzzle,Education,"San Francisco, CA, USA",12,Active,I,0
+Kaymbu,Education,"Boston, MA, USA",12,Active,I,0
+Showbie,Education,"Edmonton, AB, Canada",12,Active,I,0
+Plickers,Education,"San Francisco, CA, USA",12,Active,I,0
+Literably,Education,Remote,12,Active,I,0
+Kaizena,Education,"Palo Alto, CA, USA",12,Active,I,0
+Accredible,Education,"Berkeley, CA, USA",12,Active,I,0
+Kodable,Education,Remote,12,Active,I,0
+Securly,Education,"San Jose, CA, USA",12,Active,I,0
+CodeHS,Education,"Chicago, IL, USA",12,Active,I,0
+Informed K12,Education,"Oakland, CA, USA",12,Active,I,0
+DigitWhiz,Education,,12,Active,I,0
+NoRedInk,Education,"San Francisco, CA, USA",12,Active,I,0
+Hapara,Education,"Redwood City, CA, USA",12,Active,I,0
+edshelf,Education,"San Mateo, CA, USA",12,Active,I,0
+TeachBoost,Education,Remote,12,Active,I,0
+TapToLearn,Education,"Menlo Park, CA, USA",12,Active,I,0
+Educreations,Education,Remote,12,Active,I,0
+Remind,Education,"San Francisco, CA, USA",12,Active,I,0
+Goalbook,Education,Remote,12,Active,I,0
+Eduvant,Education,"Austin, TX, USA",12,Active,I,0
+SchoolMint,Education,"San Francisco, CA, USA",12,Acquired,I,1
+Freckle Education,Education,"San Francisco, CA, USA",12,Acquired,I,1
+LearnSprout,Education,"San Francisco, CA, USA",12,Acquired,I,1
+Answer.ky,Education,"San Francisco, CA, USA",12,Not Success,I,0
+Sesame,Education,"San Francisco, CA, USA",12,Not Success,I,0
+Alieo Games,Education,"Edmonton, AB, Canada",12,Not Success,I,0
+Edusight,Education,"Toronto, ON, Canada",12,Not Success,I,0
+MathChat,Education,"San Mateo, CA, USA",12,Not Success,I,0
+Chesscademy,Education,"New York, NY, USA",12,Not Success,I,0
+BrightLoop,Education,"Boston, MA, USA",12,Not Success,I,0
+Picolab,Education,,12,Not Success,I,0
+eduvee,Education,"London, England, United Kingdom",12,Not Success,I,0
+Mission 100%,Education,"Durham, NC, USA",12,Not Success,I,0
+ClassroomIQ,Education,"Chicago, IL, USA",12,Not Success,I,0
+Cellabus,Education,"San Francisco, CA, USA",12,Not Success,I,0
+NetClick Inc.,Education,"Kitchener, ON, Canada",12,Not Success,I,0
+Geddit,Education,"Palo Alto, CA, USA",12,Not Success,I,0
+GigaBryte,Education,"Palo Alto, CA, USA",12,Not Success,I,0
+VideoNotes,Education,"Palo Alto, CA, USA",12,Not Success,I,0
+StudyRoom,Education,,12,Not Success,I,0
+Tioki,Education,"San Francisco, CA, USA",12,Not Success,I,0
+Blendspace,Education,"San Francisco, CA, USA",12,Not Success,I,0
+MommaZoo,Education,"San Carlos, CA, USA",12,Not Success,I,0
+SmarterCookie,Education,"San Francisco, CA, USA",12,Not Success,I,0
+DSK,Education,,12,Not Success,I,0
+Socrative,Education,"Cambridge, MA, USA",12,Not Success,I,0
+TopMind,Education,,12,Not Success,I,0
+LearningJar,Education,"San Leandro, CA, USA",12,Not Success,I,0
+InstaGrok,Education,"Berkeley, CA, USA",12,Not Success,I,0
+Class Connect,Education,"San Francisco, CA, USA",12,Not Success,I,0
+BrainNook,Education,,12,Not Success,I,0
+TutorCloud,Education,,12,Not Success,I,0
+Eleven Learning,Education,,12,Not Success,I,0
+Coinbase,Financial Technology -> Banking and Exchange,Remote,12,Success,S,1
+Instacart,Consumer -> Food and Beverage,"San Francisco, CA, USA",12,Active,S,0
+Benchling,B2B Software and Services,"San Francisco, CA, USA",12,Active,S,0
+Zapier,B2B Software and Services -> Productivity,Remote,12,Active,S,0
+SmartAsset,Financial Technology -> Consumer Finance,Remote,12,Active,S,0
+Lever,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",12,Acquired,S,1
+Clever,Education,"San Francisco, CA, USA",12,Acquired,S,1
+Soylent,Consumer -> Food and Beverage,"Los Angeles, CA, USA",12,Active,S,0
+Mattermost,B2B Software and Services -> Productivity,Remote,12,Active,S,0
+Submittable,B2B Software and Services,"Missoula, MT, USA",12,Active,S,0
+9gag,Consumer -> Social,Remote,12,Active,S,0
+Svbtle,Consumer -> Content,Remote,12,Active,S,0
+Plivo,"B2B Software and Services -> Engineering, Product and Design",Remote,12,Active,S,0
+Double Robotics,B2B Software and Services -> Productivity,"Burlingame, CA, USA",12,Active,S,0
+Vastrm,Consumer -> Apparel and Cosmetics,Remote,12,Active,S,0
+Flightfox,B2B Software and Services -> Operations,Remote,12,Active,S,0
+BackerKit,B2B Software and Services -> Sales,"San Francisco, CA, USA",12,Active,S,0
+NewsBlur,Consumer -> Content,Remote,12,Active,S,0
+OctaveWealth,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",12,Active,S,0
+Upwave,B2B Software and Services -> Operations,"San Francisco, CA, USA",12,Active,S,0
+Eligible,Healthcare -> Healthcare IT,"NY, USA",12,Active,S,0
+FundersClub,Financial Technology -> Asset Management,Remote,12,Active,S,0
+Zentail,B2B Software and Services -> Supply Chain and Logistics,"Columbia, MD, USA",12,Active,S,0
+HealthSherpa,Healthcare -> Healthcare Services,"Sacramento, CA, USA",12,Active,S,0
+Human Dx,Healthcare -> Healthcare IT,"San Francisco, CA, USA",12,Active,S,0
+Mth Sense,B2B Software and Services -> Marketing,"San Jose, CA, USA",12,Active,S,0
+Rainforest,"B2B Software and Services -> Engineering, Product and Design",Remote,12,Active,S,0
+Study Edge,Education,"Gainesville, FL, USA",12,Acquired,S,1
+Virool,B2B Software and Services -> Marketing,"San Francisco, CA, USA",12,Acquired,S,1
+VoiceGem,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",12,Acquired,S,1
+Mattermark,B2B Software and Services -> Sales,"San Francisco, CA, USA",12,Acquired,S,1
+Natero,B2B Software and Services -> Operations,"Mountain View, CA, USA",12,Acquired,S,1
+BufferBox,Consumer -> Home and Personal,"Waterloo, ON, Canada",12,Acquired,S,1
+Easel,"B2B Software and Services -> Engineering, Product and Design","CA, USA",12,Acquired,S,1
+Vayable,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",12,Acquired,S,1
+Streem,Consumer -> Content,"San Francisco, CA, USA",12,Acquired,S,1
+OmniVirt,B2B Software and Services -> Marketing,"San Francisco, CA, USA",12,Acquired,S,1
+Fullstack Academy,Education,"New York, NY, USA",12,Acquired,S,1
+Statwing,B2B Software and Services -> Analytics,"San Francisco, CA, USA",12,Acquired,S,1
+Kamcord,Consumer -> Gaming,"San Francisco, CA, USA",12,Acquired,S,1
+ZeroMailer,B2B Software and Services -> Productivity,,12,Acquired,S,1
+Boosted,Consumer -> Consumer Electronics,"Mountain View, CA, USA",12,Acquired,S,1
+Knowmia,Education,Remote,12,Acquired,S,1
+Pixate,B2B Software and Services -> Infrastructure,"Palo Alto, CA, USA",12,Acquired,S,1
+Light Table/Eve,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",12,Not Success,S,0
+Thread,Consumer -> Home and Personal,"England, United Kingdom",12,Not Success,S,0
+GetGoing,"Consumer -> Travel, Leisure and Tourism","Redwood City, CA, USA",12,Not Success,S,0
+Scoutzie,"B2B Software and Services -> Engineering, Product and Design","Palo Alto, CA, USA",12,Not Success,S,0
+Assorted Bits,B2B Software and Services -> Productivity,,12,Not Success,S,0
+Viacycle,Consumer -> Transportation Services,"Atlanta, GA, USA",12,Not Success,S,0
+Parallel Universe,B2B Software and Services -> Infrastructure,,12,Not Success,S,0
+Celery,B2B Software and Services -> Retail,"San Francisco, CA, USA",12,Not Success,S,0
+Everyday.me,Consumer -> Social,,12,Not Success,S,0
+MicroEval,B2B Software and Services -> Human Resources,"Hamlin, NY, USA",12,Not Success,S,0
+Credictive,"B2B Software and Services -> Engineering, Product and Design",,12,Not Success,S,0
+RegistryLove,Consumer -> Home and Personal,"Cupertino, CA, USA",12,Not Success,S,0
+GoScale,B2B Software and Services -> Infrastructure,"London, England, United Kingdom",12,Not Success,S,0
+Tastemaker,Consumer -> Home and Personal,Remote,12,Not Success,S,0
+Coco Controller,Consumer -> Consumer Electronics,,12,Not Success,S,0
+Partnered,B2B Software and Services -> Sales,"San Francisco, CA, USA",12,Not Success,S,0
+Profig,B2B Software and Services -> Operations,"Mountain View, CA, USA",12,Not Success,S,0
+Keychain Logistics,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",12,Not Success,S,0
+ReelSurfer,Consumer -> Social,"Menlo Park, CA, USA",12,Not Success,S,0
+Dreamforge,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",12,Not Success,S,0
+Collections,Consumer -> Home and Personal,"Mountain View, CA, USA",12,Not Success,S,0
+FileStack,B2B Software and Services -> Productivity,"San Antonio, TX, USA",12,Not Success,S,0
+Hipset,Consumer -> Content,,12,Not Success,S,0
+Kippt,B2B Software and Services -> Productivity,"San Francisco, CA, USA",12,Not Success,S,0
+Hiptype,B2B Software and Services -> Analytics,"San Francisco, CA, USA",12,Not Success,S,0
+Markupwand,"B2B Software and Services -> Engineering, Product and Design","Bengaluru, KA, India",12,Not Success,S,0
+Sparkboard,B2B Software and Services -> Productivity,,12,Not Success,S,0
+Crohnology (by Healthy Labs),Healthcare -> Consumer Health and Wellness,Remote,12,Not Success,S,0
+Grid,Consumer,Remote,12,Not Success,S,0
+DataNitro,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",12,Not Success,S,0
+Airshared,Consumer -> Home and Personal,,12,Not Success,S,0
+Framebase,Consumer -> Content,"San Francisco, CA, USA",12,Not Success,S,0
+Testmunk,"B2B Software and Services -> Engineering, Product and Design","CA, USA",12,Not Success,S,0
+Amicus,B2B Software and Services -> Marketing,"San Francisco, CA, USA",12,Not Success,S,0
+Arc,Industrials -> Drones,"Palo Alto, CA, USA",12,Not Success,S,0
+Imgfave,Consumer -> Content,"San Francisco, CA, USA",12,Not Success,S,0
+LeanMarket,B2B Software and Services -> Marketing,"Mountain View, CA, USA",12,Not Success,S,0
+Canopy Labs,B2B Software and Services -> Analytics,"New York, NY, USA",12,Not Success,S,0
+TomoGuides,Consumer -> Content,"Seattle, WA, USA",12,Not Success,S,0
+Amplitude,B2B Software and Services -> Analytics,"San Francisco, CA, USA",12,Success,W,1
+MatterPort,Consumer -> Virtual and Augmented Reality,"Sunnyvale, CA, USA",12,Success,W,1
+Gusto,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",12,Active,W,0
+Wave,Financial Technology -> Payments,Remote,12,Active,W,0
+PlanGrid,Real Estate and Construction -> Construction,"San Francisco, CA, USA",12,Acquired,W,1
+Rescale,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",12,Active,W,0
+Sendwave,Financial Technology -> Payments,Remote,12,Acquired,W,1
+Ridecell,Industrials -> Automotive,"San Francisco, CA, USA",12,Active,W,0
+Medmonk,Healthcare -> Healthcare Services,"Milpitas, CA, USA",12,Active,W,0
+Per Vices,Industrials,"Toronto, ON, Canada",12,Active,W,0
+Fond,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",12,Active,W,0
+CircuitHub,Industrials -> Manufacturing and Robotics,"London, England, United Kingdom",12,Active,W,0
+Screenleap,B2B Software and Services -> Productivity,Remote,12,Active,W,0
+CleverDeck,Education,"Istanbul, Istanbul, Turkey",12,Active,W,0
+Shoptiques,Consumer -> Apparel and Cosmetics,"New York, NY, USA",12,Active,W,0
+Medigram,Healthcare -> Healthcare IT,"Los Gatos, CA, USA",12,Active,W,0
+HireArt,B2B Software and Services -> Recruiting and Talent,"New York, NY, USA",12,Active,W,0
+The Muse,B2B Software and Services -> Recruiting and Talent,"New York, NY, USA",12,Active,W,0
+42Floors,Real Estate and Construction -> Housing and Real Estate,Remote,12,Acquired,W,1
+Shopular,Consumer -> Home and Personal,"Redwood City, CA, USA",12,Acquired,W,1
+Socialcam,Consumer -> Content,"San Francisco, CA, USA",12,Acquired,W,1
+iCracked,Consumer -> Home and Personal,"Redwood City, CA, USA",12,Acquired,W,1
+Priceonomics,B2B Software and Services -> Marketing,"San Francisco, CA, USA",12,Acquired,W,1
+YourMechanic,Consumer -> Transportation Services,"Mountain View, CA, USA",12,Acquired,W,1
+Loom,Consumer -> Content,"San Francisco, CA, USA",12,Acquired,W,1
+Flutter,"B2B Software and Services -> Engineering, Product and Design","Santa Monica, CA, USA",12,Acquired,W,1
+Authy,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",12,Acquired,W,1
+FarmLogs,Industrials -> Agriculture,Remote,12,Acquired,W,1
+Swiftype,"B2B Software and Services -> Engineering, Product and Design",Remote,12,Acquired,W,1
+Tilt,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",12,Acquired,W,1
+Exec,Consumer -> Home and Personal,"San Francisco, CA, USA",12,Acquired,W,1
+Chute,B2B Software and Services -> Marketing,"San Francisco, CA, USA",12,Acquired,W,1
+SlidePay,Financial Technology -> Payments,"Mountain View, CA, USA",12,Acquired,W,1
+HackPad,B2B Software and Services -> Productivity,"San Francisco, CA, USA",12,Acquired,W,1
+CoderWall,B2B Software and Services -> Productivity,"San Francisco, CA, USA",12,Acquired,W,1
+Amiato,B2B Software and Services -> Infrastructure,"Palo Alto, CA, USA",12,Acquired,W,1
+MyVR,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",12,Acquired,W,1
+Midnox,Consumer -> Content,"Palo Alto, CA, USA",12,Acquired,W,1
+SendHub,B2B Software and Services -> Productivity,"Pleasanton, CA, USA",12,Acquired,W,1
+WireOver,B2B Software and Services -> Productivity,"Cambridge, MA, USA",12,Not Success,W,0
+GiveSpark,B2B Software and Services -> Marketing,"Palo Alto, CA, USA",12,Not Success,W,0
+Carsabi,Consumer -> Transportation Services,"Mountain View, CA, USA",12,Not Success,W,0
+Glider,B2B Software and Services -> Productivity,"Portland, OR, USA",12,Not Success,W,0
+SolidStage,"B2B Software and Services -> Engineering, Product and Design",,12,Not Success,W,0
+Ark,Consumer -> Content,"San Francisco, CA, USA",12,Not Success,W,0
+Documents.Me,B2B Software and Services -> Infrastructure,"Santa Clara, CA, USA",12,Not Success,W,0
+99dresses,Consumer -> Apparel and Cosmetics,"New York, NY, USA",12,Not Success,W,0
+BarSense,Consumer -> Home and Personal,"Mountain View, CA, USA",12,Not Success,W,0
+LVL6,Consumer -> Gaming,"Palo Alto, CA, USA",12,Not Success,W,0
+Brace,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",12,Not Success,W,0
+LendUp,Financial Technology -> Credit and Lending,"San Francisco, CA, USA",12,Not Success,W,0
+Grouper,Consumer -> Food and Beverage,"New York, NY, USA",12,Not Success,W,0
+Zillabyte,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",12,Not Success,W,0
+Talkray (TiKL),Consumer -> Social,"Sunnyvale, CA, USA",12,Not Success,W,0
+Pixelapse,"B2B Software and Services -> Engineering, Product and Design","Palo Alto, CA, USA",12,Not Success,W,0
+Make School,Education,"San Francisco, CA, USA",12,Not Success,W,0
+Zipio,Consumer -> Social,,12,Not Success,W,0
+Minefold,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",12,Not Success,W,0
+Marft,"B2B Software and Services -> Engineering, Product and Design",,12,Not Success,W,0
+FamilyLeaf,Consumer -> Social,"San Francisco, CA, USA",12,Not Success,W,0
+BookSolid,B2B Software and Services -> Retail,,12,Not Success,W,0
+Optilly/Installmonetizer,B2B Software and Services -> Marketing,"San Jose, CA, USA",12,Not Success,W,0
+Tap to Learn,Consumer -> Gaming,"Menlo Park, CA, USA",12,Not Success,W,0
+Jellyfish Art,Consumer -> Home and Personal,"San Francisco, CA, USA",12,Not Success,W,0
+Couple,Consumer -> Social,"San Francisco, CA, USA",12,Not Success,W,0
+Hipmob,B2B Software and Services -> Operations,"Palo Alto, CA, USA",12,Not Success,W,0
+Fivetran,B2B Software and Services -> Infrastructure,"Oakland, CA, USA",13,Active,W,0
+Heap,B2B Software and Services -> Analytics,"San Francisco, CA, USA",13,Active,W,0
+Goldbelly,Consumer -> Food and Beverage,"New York, NY, USA",13,Active,W,0
+InfluxData,B2B Software and Services -> Infrastructure,Remote,13,Active,W,0
+Cheetah,B2B Software and Services -> Retail,"San Francisco, CA, USA",13,Active,W,0
+Zenefits,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",13,Acquired,W,1
+North,Consumer -> Virtual and Augmented Reality,"Kitchener, ON, Canada",13,Acquired,W,1
+Wefunder,Financial Technology -> Asset Management,"San Francisco, CA, USA",13,Active,W,0
+Watsi,Healthcare,Remote,13,Active,W,0
+Wevorce,Consumer -> Home and Personal,"Bothell, WA, USA",13,Active,W,0
+CrowdMed,Healthcare -> Healthcare Services,Remote,13,Active,W,0
+SimplyInsured,Healthcare -> Healthcare Services,"San Francisco, CA, USA",13,Active,W,0
+Experiment,Healthcare -> Healthcare Services,Remote,13,Active,W,0
+RADAR,B2B Software and Services -> Retail,"New York, NY, USA",13,Active,W,0
+Lollipuff,Consumer -> Apparel and Cosmetics,"Mountain View, CA, USA",13,Active,W,0
+Strikingly,B2B Software and Services -> Marketing,"Shanghai, Shanghai, China",13,Active,W,0
+Etleap,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",13,Active,W,0
+Lawdingo,Consumer -> Home and Personal,"New York, NY, USA",13,Active,W,0
+Padlet,B2B Software and Services -> Productivity,"San Francisco, CA, USA",13,Active,W,0
+BuildZoom,Consumer -> Home and Personal,"San Francisco, CA, USA",13,Active,W,0
+Scuba,B2B Software and Services -> Analytics,"Redwood City, CA, USA",13,Active,W,0
+CircuitLab,"B2B Software and Services -> Engineering, Product and Design",Remote,13,Active,W,0
+Semantics3,B2B Software and Services -> Retail,"San Francisco, CA, USA",13,Acquired,W,1
+Kalibrr,B2B Software and Services -> Operations,"Makati, NCR, Philippines",13,Acquired,W,1
+Coin,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",13,Acquired,W,1
+MedXT,Healthcare -> Healthcare IT,"San Francisco, CA, USA",13,Acquired,W,1
+Meldium,B2B Software and Services -> Productivity,"San Francisco, CA, USA",13,Acquired,W,1
+Bitnami,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",13,Acquired,W,1
+GrepData,B2B Software and Services -> Analytics,"San Francisco, CA, USA",13,Acquired,W,1
+VaycayHero,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",13,Acquired,W,1
+Screenhero,B2B Software and Services -> Productivity,"Mountain View, CA, USA",13,Acquired,W,1
+Prophecy Sciences,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",13,Not Success,W,0
+Posmetrics,B2B Software and Services -> Retail,"Cupertino, CA, USA",13,Not Success,W,0
+Airware,Industrials -> Drones,"San Francisco, CA, USA",13,Not Success,W,0
+Teespring,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",13,Not Success,W,0
+Logiblock,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",13,Not Success,W,0
+FlightCar,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",13,Not Success,W,0
+Swapbox,Consumer -> Home and Personal,"San Francisco, CA, USA",13,Not Success,W,0
+BeatDeck,B2B Software and Services -> Retail,"Atlanta, GA, USA",13,Not Success,W,0
+RoverRide,Consumer -> Transportation Services,"San Francisco, CA, USA",13,Not Success,W,0
+Medisas,Healthcare -> Healthcare IT,"San Francisco, CA, USA",13,Not Success,W,0
+Trainzen,B2B Software and Services -> Human Resources,"Sunnyvale, CA, USA",13,Not Success,W,0
+PayTango,B2B Software and Services -> Finance and Accounting,"Mountain View, CA, USA",13,Not Success,W,0
+Swish,B2B Software and Services -> Supply Chain and Logistics,"Palo Alto, CA, USA",13,Not Success,W,0
+Appcubator,"B2B Software and Services -> Engineering, Product and Design","Mountain View, CA, USA",13,Not Success,W,0
+StyleUp,Consumer -> Apparel and Cosmetics,"New York, NY, USA",13,Not Success,W,0
+DoorDash,Consumer -> Food and Beverage,"San Francisco, CA, USA",13,Success,S,1
+Webflow,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",13,Active,S,0
+EasyPost,B2B Software and Services -> Supply Chain and Logistics,Remote,13,Active,S,0
+Panorama Education,Education,"Boston, MA, USA",13,Active,S,0
+Lob,B2B Software and Services -> Marketing,"San Francisco, CA, USA",13,Active,S,0
+CoreOS,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",13,Acquired,S,1
+Le Tote,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",13,Not Success,S,0
+True Link,Financial Technology,Remote,13,Active,S,0
+Reebee,Consumer -> Home and Personal,"Kitchener, ON, Canada",13,Active,S,0
+RealCrowd,Real Estate and Construction -> Housing and Real Estate,"Portland, OR, USA",13,Active,S,0
+One Month,Education,Remote,13,Active,S,0
+Casetext,B2B Software and Services -> Legal,Remote,13,Active,S,0
+Cratejoy,B2B Software and Services -> Retail,"Austin, TX, USA",13,Active,S,0
+"Estimote, Inc.",B2B Software and Services -> Supply Chain and Logistics,"KrakÃ³w, Lesser Poland Voivodeship, Poland",13,Active,S,0
+Asseta,B2B Software and Services,Remote,13,Active,S,0
+7cups,Healthcare -> Healthcare Services,"Virginia Beach, VA, USA",13,Active,S,0
+Echo Locker,Consumer -> Home and Personal,,13,Acquired,S,1
+Weilos,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",13,Acquired,S,1
+Datarank,B2B Software and Services -> Marketing,"Fayetteville, AR, USA",13,Acquired,S,1
+Lumoid,Consumer -> Consumer Electronics,"San Francisco, CA, USA",13,Acquired,S,1
+StatusPage,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",13,Acquired,S,1
+Bop.fm,Consumer -> Content,"San Francisco, CA, USA",13,Acquired,S,1
+Arcus,Financial Technology -> Banking and Exchange,"Mexico City, CDMX, Mexico",13,Acquired,S,1
+Senic,Consumer -> Consumer Electronics,"Berlin, Berlin, Germany",13,Acquired,S,1
+Layer By Layer,Consumer -> Home and Personal,"Mountain View, CA, USA",13,Acquired,S,1
+SpoonRocket,Consumer -> Food and Beverage,"Berkeley, CA, USA",13,Acquired,S,1
+SimpleLegal,B2B Software and Services -> Legal,"Mountain View, CA, USA",13,Acquired,S,1
+Hackermeter,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",13,Acquired,S,1
+BloomThat,Consumer -> Home and Personal,"San Francisco, CA, USA",13,Acquired,S,1
+Standard Treasury,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",13,Acquired,S,1
+Apptimize,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",13,Acquired,S,1
+URX,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",13,Acquired,S,1
+Ixiplay,Consumer -> Consumer Electronics,"Sunnyvale, CA, USA",13,Not Success,S,0
+WebCake,"B2B Software and Services -> Engineering, Product and Design",,13,Not Success,S,0
+Kivo,B2B Software and Services -> Productivity,"Palo Alto, CA, USA",13,Not Success,S,0
+SoundFocus,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",13,Not Success,S,0
+Butter Systems,B2B Software and Services -> Retail,"San Francisco, CA, USA",13,Not Success,S,0
+Audobox,"B2B Software and Services -> Engineering, Product and Design",,13,Not Success,S,0
+Amulyte,Healthcare -> Consumer Health and Wellness,"Mountain View, CA, USA",13,Not Success,S,0
+Watchsend,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",13,Not Success,S,0
+Meta,Consumer -> Virtual and Augmented Reality,"San Mateo, CA, USA",13,Not Success,S,0
+LocalOn,B2B Software and Services -> Retail,"San Francisco, CA, USA",13,Not Success,S,0
+Hum,B2B Software and Services -> Productivity,"San Francisco, CA, USA",13,Not Success,S,0
+Graft Concepts,Consumer -> Consumer Electronics,"Mountain View, CA, USA",13,Not Success,S,0
+Glio,Consumer -> Apparel and Cosmetics,"Rio de Janeiro, RJ, Brazil",13,Not Success,S,0
+Floobits,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",13,Not Success,S,0
+GoComm,B2B Software and Services -> Productivity,"Mountain View, CA, USA",13,Not Success,S,0
+Crowdery,B2B Software and Services -> Retail,"San Francisco, CA, USA",13,Not Success,S,0
+Buttercoin,Financial Technology -> Banking and Exchange,"Palo Alto, CA, USA",13,Not Success,S,0
+StackMachine,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",13,Not Success,S,0
+FanHero,Consumer -> Social,Remote,13,Not Success,S,0
+Teleborder,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",13,Not Success,S,0
+Weave,B2B Software and Services -> Office Management,"Lehi, UT, USA",14,Success,W,1
+Cruise,Industrials -> Automotive,"San Francisco, CA, USA",14,Acquired,W,1
+Flexport,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",14,Active,W,0
+Algolia,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",14,Active,W,0
+Snapdocs,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",14,Active,W,0
+Bellabeat,Consumer -> Consumer Electronics,"San Francisco, CA, USA",14,Active,W,0
+Guesty,Real Estate and Construction -> Housing and Real Estate,"Tel Aviv-Yafo, Tel Aviv District, Israel",14,Active,W,0
+MBX,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",14,Active,W,0
+Clear,Financial Technology -> Consumer Finance,"Bengaluru, KA, India",14,Active,W,0
+Cambly,Education,"San Francisco, CA, USA",14,Active,W,0
+Unbabel,B2B Software and Services -> Operations,"San Francisco, CA, USA",14,Active,W,0
+Axoni,Financial Technology -> Banking and Exchange,"New York, NY, USA",14,Active,W,0
+Chargehound,B2B Software and Services -> Finance and Accounting,"Oakland, CA, USA",14,Acquired,W,1
+Immunity Project,Unspecified,"San Francisco, CA, USA",14,Active,W,0
+Dyspatch,B2B Software and Services -> Marketing,"Victoria, BC, Canada",14,Active,W,0
+OpenCurriculum,Unspecified,"Mountain View, CA, USA",14,Active,W,0
+MixerBox,Consumer,"Palo Alto, CA, USA",14,Active,W,0
+GBatteries,Industrials -> Climate,"Ottawa, ON, Canada",14,Active,W,0
+Zinc,B2B Software and Services -> Retail,"San Francisco, CA, USA",14,Active,W,0
+Zidisha,Financial Technology -> Credit and Lending,Remote,14,Active,W,0
+TrueVault,B2B Software and Services,Remote,14,Active,W,0
+Style Lend,Consumer -> Apparel and Cosmetics,Remote,14,Active,W,0
+MerryMint,B2B Software and Services -> Office Management,Remote,14,Active,W,0
+SketchDeck,B2B Software and Services -> Productivity,Remote,14,Active,W,0
+Shoobs,"Consumer -> Travel, Leisure and Tourism","London, England, United Kingdom",14,Active,W,0
+Pushbullet,Consumer -> Home and Personal,Remote,14,Active,W,0
+Povio,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",14,Active,W,0
+PiinPoint,B2B Software and Services -> Office Management,"Kitchener, ON, Canada",14,Active,W,0
+Theorem LP,Financial Technology -> Asset Management,"San Francisco, CA, USA",14,Active,W,0
+One Degree,Unspecified,"San Francisco, CA, USA",14,Active,W,0
+Emailio,B2B Software and Services -> Productivity,Remote,14,Active,W,0
+Taplytics,"B2B Software and Services -> Engineering, Product and Design","Toronto, ON, Canada",14,Active,W,0
+CodeNow,Unspecified,"Chicago, IL, USA",14,Active,W,0
+CodeCombat,Education,Remote,14,Active,W,0
+Noora Health,Unspecified,"Bengaluru, KA, India",14,Active,W,0
+AptDeco,Consumer -> Home and Personal,"New York, NY, USA",14,Active,W,0
+CareMessage,Unspecified,Remote,14,Active,W,0
+Ambition,B2B Software and Services -> Sales,"Chattanooga, TN, USA",14,Active,W,0
+AirHelp,"Consumer -> Travel, Leisure and Tourism","New York, NY, USA",14,Active,W,0
+42,B2B Software and Services -> Retail,"San Francisco, CA, USA",14,Active,W,0
+Vidpresso,B2B Software and Services -> Infrastructure,Remote,14,Acquired,W,1
+Framed Data,B2B Software and Services -> Analytics,"San Francisco, CA, USA",14,Acquired,W,1
+Avametric,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",14,Acquired,W,1
+Gobble,Consumer -> Food and Beverage,"Palo Alto, CA, USA",14,Acquired,W,1
+Zesty,B2B Software and Services -> Office Management,"San Francisco, CA, USA",14,Acquired,W,1
+Wit.ai,"B2B Software and Services -> Engineering, Product and Design","Palo Alto, CA, USA",14,Acquired,W,1
+Rocketrip,B2B Software and Services -> Finance and Accounting,"New York, NY, USA",14,Acquired,W,1
+Rickshaw,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",14,Acquired,W,1
+PipelineDB,B2B Software and Services -> Infrastructure,"Los Angeles, CA, USA",14,Acquired,W,1
+Liftigniter,B2B Software and Services -> Marketing,"San Francisco, CA, USA",14,Acquired,W,1
+StackLead,B2B Software and Services -> Sales,"San Francisco, CA, USA",14,Acquired,W,1
+Next Caller,B2B Software and Services -> Sales,"New York, NY, USA",14,Acquired,W,1
+Motionlead,B2B Software and Services -> Marketing,"Paris, ÃŽle-de-France, France",14,Acquired,W,1
+Kimono Labs,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",14,Acquired,W,1
+Eventjoy,B2B Software and Services -> Retail,"San Francisco, CA, USA",14,Acquired,W,1
+Two Tap,B2B Software and Services -> Retail,"San Francisco, CA, USA",14,Acquired,W,1
+Boostable,B2B Software and Services -> Marketing,"San Francisco, CA, USA",14,Acquired,W,1
+Abacus,B2B Software and Services -> Finance and Accounting,"New York, NY, USA",14,Acquired,W,1
+Whirlscape,Consumer -> Social,"Toronto, ON, Canada",14,Not Success,W,0
+AirPair,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",14,Not Success,W,0
+ZowPow,Consumer -> Consumer Electronics,"San Francisco, CA, USA",14,Not Success,W,0
+Unicornly,B2B Software and Services -> Finance and Accounting,"Palo Alto, CA, USA",14,Not Success,W,0
+Terravion,Industrials -> Agriculture,"San Leandro, CA, USA",14,Not Success,W,0
+Edyn,Industrials -> Agriculture,"Oakland, CA, USA",14,Not Success,W,0
+Shopagram,Consumer,,14,Not Success,W,0
+HoverChat,Financial Technology -> Asset Management,"Santa Clara, CA, USA",14,Not Success,W,0
+Move Loot,Consumer -> Home and Personal,"San Francisco, CA, USA",14,Not Success,W,0
+MadeSolid,Industrials -> Manufacturing and Robotics,"Emeryville, CA, USA",14,Not Success,W,0
+Drive Pulse,Consumer -> Consumer Electronics,"Stanford, CA, USA",14,Not Success,W,0
+Yumbin,B2B Software and Services -> Office Management,"San Francisco, CA, USA",14,Not Success,W,0
+Dating Ring,Consumer -> Social,"New York, NY, USA",14,Not Success,W,0
+Threadable,B2B Software and Services -> Productivity,"San Francisco, CA, USA",14,Not Success,W,0
+Futureleague,Consumer -> Home and Personal,"Hughson, CA, USA",14,Not Success,W,0
+Awesometalk,Consumer -> Social,"San Francisco, CA, USA",14,Not Success,W,0
+Ginkgo Bioworks,Healthcare -> Industrial Bio,"Boston, MA, USA",14,Success,S,1
+Rigetti Computing,Industrials -> Manufacturing and Robotics,"Berkeley, CA, USA",14,Success,S,1
+Checkr,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",14,Active,S,0
+Helion Energy,Industrials -> Energy,"Everett, WA, USA",14,Active,S,0
+ShipBob,B2B Software and Services -> Supply Chain and Logistics,"Chicago, IL, USA",14,Active,S,0
+Front,B2B Software and Services -> Productivity,"San Francisco, CA, USA",14,Active,S,0
+PicnicHealth,Healthcare,"San Francisco, CA, USA",14,Active,S,0
+Stacks,B2B Software and Services -> Infrastructure,"New York, NY, USA",14,Active,S,0
+Permutive,B2B Software and Services -> Marketing,"London, England, United Kingdom",14,Active,S,0
+Cognito,"B2B Software and Services -> Engineering, Product and Design",Remote,14,Acquired,S,1
+Apto Payments,Financial Technology -> Payments,"San Francisco, CA, USA",14,Active,S,0
+Bayes Impact,Unspecified,"San Francisco, CA, USA",14,Active,S,0
+Oklo,Industrials -> Energy,"Santa Clara, CA, USA",14,Active,S,0
+Women.com,Consumer -> Content,"San Mateo, CA, USA",14,Active,S,0
+Roomstorm,"Consumer -> Travel, Leisure and Tourism","Redwood City, CA, USA",14,Active,S,0
+Hive,B2B Software and Services -> Marketing,Remote,14,Active,S,0
+Think Gaming,B2B Software and Services -> Marketing,"New York, NY, USA",14,Active,S,0
+Tenjin,B2B Software and Services -> Marketing,"San Francisco, CA, USA",14,Active,S,0
+SpotAngels,Consumer -> Transportation Services,"San Francisco, CA, USA",14,Active,S,0
+UserGems,B2B Software and Services -> Recruiting and Talent,Austria,14,Active,S,0
+SFOX,Financial Technology -> Banking and Exchange,Remote,14,Active,S,0
+Alchemy,Industrials -> Manufacturing and Robotics,"Waterloo, ON, Canada",14,Active,S,0
+Naytev,"B2B Software and Services -> Engineering, Product and Design",Remote,14,Active,S,0
+MTailor,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",14,Active,S,0
+MetricWire,Healthcare -> Healthcare IT,"Kitchener, ON, Canada",14,Active,S,0
+Protocol Labs,B2B Software and Services -> Infrastructure,Remote,14,Active,S,0
+Greentoe,Consumer -> Consumer Electronics,Remote,14,Active,S,0
+Hyperpad,Consumer -> Gaming,"London, ON, Canada",14,Active,S,0
+Flytenow,"Consumer -> Travel, Leisure and Tourism",Remote,14,Active,S,0
+Flaviar,Consumer -> Food and Beverage,"New York, NY, USA",14,Active,S,0
+Billforward,Financial Technology -> Payments,"San Francisco, CA, USA",14,Active,S,0
+Bannerman,B2B Software and Services -> Office Management,Remote,14,Active,S,0
+Backpack,Consumer -> Home and Personal,"San Francisco, CA, USA",14,Active,S,0
+Aptible,B2B Software and Services -> Infrastructure,Remote,14,Active,S,0
+Unwind Me,Consumer -> Home and Personal,"San Francisco, CA, USA",14,Acquired,S,1
+Sliced Investing,Financial Technology -> Asset Management,"San Francisco, CA, USA",14,Acquired,S,1
+Ravti,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",14,Acquired,S,1
+One Codex,Healthcare -> Healthcare IT,"San Francisco, CA, USA",14,Acquired,S,1
+Tule,Industrials -> Agriculture,"Davis, CA, USA",14,Acquired,S,1
+Payable,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",14,Acquired,S,1
+Product Hunt,Consumer -> Content,"San Francisco, CA, USA",14,Acquired,S,1
+Replenish,B2B Software and Services -> Office Management,"San Leandro, CA, USA",14,Acquired,S,1
+ListRunner,Healthcare -> Healthcare IT,"Mountain View, CA, USA",14,Acquired,S,1
+Lawn Love,Consumer -> Home and Personal,"San Diego, CA, USA",14,Acquired,S,1
+Kash,Financial Technology -> Payments,"San Francisco, CA, USA",14,Acquired,S,1
+Impraise,B2B Software and Services -> Human Resources,"Amsterdam, NH, Netherlands",14,Acquired,S,1
+Hublo,B2B Software and Services -> Analytics,"Paris, ÃŽle-de-France, France",14,Acquired,S,1
+Blockspring,B2B Software and Services -> Infrastructure,Remote,14,Acquired,S,1
+GovPredict,Government,Remote,14,Acquired,S,1
+PersistIQ,B2B Software and Services -> Sales,Remote,14,Acquired,S,1
+Craft Coffee,Consumer -> Food and Beverage,"NY, USA",14,Acquired,S,1
+Clara Labs,B2B Software and Services -> Productivity,"San Francisco, CA, USA",14,Acquired,S,1
+Carlypso,Consumer -> Transportation Services,"San Francisco, CA, USA",14,Acquired,S,1
+Bitaccess,Financial Technology -> Banking and Exchange,"Toronto, ON, Canada",14,Acquired,S,1
+Parenthoods,Consumer -> Social,"San Francisco, CA, USA",14,Acquired,S,1
+Zip Phone,Consumer -> Social,,14,Acquired,S,1
+Zenamins,Consumer -> Food and Beverage,"San Francisco, CA, USA",14,Not Success,S,0
+Beep,Industrials -> Manufacturing and Robotics,"San Francisco, CA, USA",14,Not Success,S,0
+Zoomer,Consumer -> Food and Beverage,"Philadelphia, PA, USA",14,Not Success,S,0
+Zen99,B2B Software and Services -> Human Resources,"Mountain View, CA, USA",14,Not Success,S,0
+Whirl,B2B Software and Services -> Retail,"South San Francisco, CA, USA",14,Not Success,S,0
+Weave,Consumer -> Job and Career Services,"San Francisco, CA, USA",14,Not Success,S,0
+Tinker,Financial Technology -> Asset Management,"Waterloo, ON, Canada",14,Not Success,S,0
+Paid,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",14,Not Success,S,0
+HauteDay,Consumer -> Apparel and Cosmetics,"Carlsbad, CA, USA",14,Not Success,S,0
+SalesSift,B2B Software and Services -> Sales,"London, England, United Kingdom",14,Not Success,S,0
+Shout,Consumer -> Home and Personal,"New York, NY, USA",14,Not Success,S,0
+Roost,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",14,Not Success,S,0
+Cheddar,Financial Technology -> Banking and Exchange,,14,Not Success,S,0
+In Your Corner,Healthcare -> Healthcare Services,"New York, NY, USA",14,Not Success,S,0
+Nightingale,Healthcare -> Healthcare IT,"San Francisco, CA, USA",14,Not Success,S,0
+Neptune.io,B2B Software and Services -> Infrastructure,"San Mateo, CA, USA",14,Not Success,S,0
+VizeraLabs,B2B Software and Services -> Retail,"Sunnyvale, CA, USA",14,Not Success,S,0
+TAXA Biotechnologies,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",14,Not Success,S,0
+Fixed,Consumer -> Transportation Services,"San Francisco, CA, USA",14,Not Success,S,0
+Owners Circle,Financial Technology -> Credit and Lending,"Berkeley, CA, USA",14,Not Success,S,0
+Doblet,B2B Software and Services -> Office Management,"San Francisco, CA, USA",14,Not Success,S,0
+Bikanta,Healthcare -> Diagnostics,"Berkeley, CA, USA",14,Not Success,S,0
+SpringWit,Healthcare -> Consumer Health and Wellness,,14,Not Success,S,0
+GitLab,"B2B Software and Services -> Engineering, Product and Design",Remote,15,Success,W,1
+Lucira Health,Healthcare -> Diagnostics,"Emeryville, CA, USA",15,Success,W,1
+Razorpay,Financial Technology -> Payments,"Bengaluru, KA, India",15,Active,W,0
+EquipmentShare,Real Estate and Construction -> Construction,"Columbia, MO, USA",15,Active,W,0
+GrubMarket,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",15,Active,W,0
+Mashgin,B2B Software and Services -> Retail,"Palo Alto, CA, USA",15,Active,W,0
+NimbleRx,Healthcare -> Consumer Health and Wellness,"Redwood City, CA, USA",15,Active,W,0
+Tempo,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Active,W,0
+Atomwise,Healthcare -> Drug Discovery and Delivery,"San Francisco, CA, USA",15,Active,W,0
+Mezmo,B2B Software and Services -> Infrastructure,Remote,15,Active,W,0
+Platzi,Education,Remote,15,Active,W,0
+Qventus,Healthcare -> Healthcare IT,Remote,15,Active,W,0
+Notable Labs,Healthcare -> Diagnostics,"Foster City, CA, USA",15,Active,W,0
+Pachyderm,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",15,Active,W,0
+Zeitview,Industrials -> Drones,Remote,15,Active,W,0
+Shasqi,Healthcare -> Drug Discovery and Delivery,Remote,15,Active,W,0
+Spire Health,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Active,W,0
+Replika,Consumer -> Content,"San Francisco, CA, USA",15,Active,W,0
+Tara AI,B2B Software and Services -> Recruiting and Talent,Remote,15,Active,W,0
+Flip,Consumer -> Apparel and Cosmetics,"Los Angeles, CA, USA",15,Active,W,0
+X-Zell,Healthcare -> Diagnostics,"Bangkok, Thailand",15,Active,W,0
+Wink Health,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Active,W,0
+Transcriptic,Healthcare -> Healthcare Services,"Menlo Park, CA, USA",15,Active,W,0
+Zenflow,Healthcare -> Medical Devices,"South San Francisco, CA, USA",15,Active,W,0
+Tab,"Consumer -> Travel, Leisure and Tourism","London, England, United Kingdom",15,Active,W,0
+Priime,Consumer -> Social,Remote,15,Active,W,0
+Pigeonly,Consumer -> Social,"Las Vegas, NV, USA",15,Active,W,0
+Dabble,B2B Software and Services -> Marketing,Remote,15,Active,W,0
+Meadow,B2B Software and Services -> Retail,"San Francisco, CA, USA",15,Active,W,0
+Level Frames,Consumer -> Home and Personal,"Atlanta, GA, USA",15,Active,W,0
+Industrial Microbes,Healthcare -> Industrial Bio,"Alameda, CA, USA",15,Active,W,0
+Giveffect,B2B Software and Services -> Finance and Accounting,"New York, NY, USA",15,Active,W,0
+eBrandvalue,B2B Software and Services -> Marketing,"Mountain View, CA, USA",15,Active,W,0
+Quantierra,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",15,Active,W,0
+Dealyze,B2B Software and Services -> Retail,"San Francisco, CA, USA",15,Active,W,0
+Cleanly,Consumer -> Home and Personal,"New York, NY, USA",15,Active,W,0
+Resolve,B2B Software and Services -> Infrastructure,Remote,15,Active,W,0
+Underground Cellar,Consumer -> Food and Beverage,"San Francisco, CA, USA",15,Active,W,0
+Mobydish,B2B Software and Services -> Retail,Remote,15,Active,W,0
+Makrwatch,B2B Software and Services -> Marketing,Remote,15,Active,W,0
+TeamNote,B2B Software and Services -> Productivity,"Hong Kong, Hong Kong",15,Active,W,0
+SIRUM,Unspecified,"Palo Alto, CA, USA",15,Active,W,0
+Sails Co.,"B2B Software and Services -> Engineering, Product and Design","Austin, TX, USA",15,Active,W,0
+Shift Labs,Healthcare -> Medical Devices,"Seattle, WA, USA",15,Active,W,0
+ReadMe,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",15,Active,W,0
+BuildScience,Real Estate and Construction -> Housing and Real Estate,Remote,15,Active,W,0
+Paperspace,"B2B Software and Services -> Engineering, Product and Design","NY, USA",15,Active,W,0
+Pakible,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",15,Active,W,0
+Labdoor,Consumer -> Food and Beverage,"San Francisco, CA, USA",15,Active,W,0
+Kickpay,B2B Software and Services -> Finance and Accounting,Remote,15,Active,W,0
+Kickback,Consumer -> Gaming,Remote,15,Active,W,0
+GiveMeTap,Consumer -> Home and Personal,Remote,15,Active,W,0
+Bankjoy,Financial Technology -> Banking and Exchange,Remote,15,Active,W,0
+The Human Utility,Unspecified,Remote,15,Active,W,0
+Democracy Earth,Unspecified,Remote,15,Active,W,0
+Bright,Industrials -> Energy,Remote,15,Active,W,0
+Magic,B2B Software and Services,Remote,15,Active,W,0
+Akido Labs,Healthcare -> Healthcare IT,"Los Angeles, CA, USA",15,Active,W,0
+Tech in Asia,Consumer -> Content,"Singapore, Singapore",15,Active,W,0
+DemocracyOS,Government,"Buenos Aires, CABA, Argentina",15,Active,W,0
+Lumi,B2B Software and Services -> Supply Chain and Logistics,"Los Angeles, CA, USA",15,Acquired,W,1
+Chariot,Consumer -> Transportation Services,"San Francisco, CA, USA",15,Acquired,W,1
+Raven Tech,B2B Software and Services -> Infrastructure,"Beijing, Beijing, China",15,Acquired,W,1
+Vanhawks,Consumer -> Consumer Electronics,"Toronto, ON, Canada",15,Acquired,W,1
+Valor Water Analytics,Industrials -> Climate,"San Francisco, CA, USA",15,Acquired,W,1
+SigOpt,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",15,Acquired,W,1
+Seed,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",15,Acquired,W,1
+Pretty Instant,Consumer -> Home and Personal,Remote,15,Acquired,W,1
+Popular Pays,B2B Software and Services -> Marketing,"Chicago, IL, USA",15,Acquired,W,1
+Outbound,B2B Software and Services -> Marketing,"San Francisco, CA, USA",15,Acquired,W,1
+Moltin,B2B Software and Services -> Retail,"Boston, MA, USA",15,Acquired,W,1
+NexTravel,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",15,Acquired,W,1
+WayUp,Consumer -> Job and Career Services,"New York, NY, USA",15,Acquired,W,1
+Bonfire,B2B Software and Services -> Finance and Accounting,"ON, Canada",15,Acquired,W,1
+Yhat,"B2B Software and Services -> Engineering, Product and Design",Remote,15,Acquired,W,1
+YesGraph,B2B Software and Services -> Marketing,"Palo Alto, CA, USA",15,Acquired,W,1
+Vest,Financial Technology -> Asset Management,"McLean, VA, USA",15,Acquired,W,1
+Remix,Government,"San Francisco, CA, USA",15,Acquired,W,1
+Smarking,B2B Software and Services -> Analytics,Remote,15,Acquired,W,1
+Open Listings,Real Estate and Construction -> Housing and Real Estate,"Los Angeles, CA, USA",15,Acquired,W,1
+HigherMe,B2B Software and Services -> Recruiting and Talent,Remote,15,Acquired,W,1
+WorkLife,B2B Software and Services -> Productivity,"San Francisco, CA, USA",15,Acquired,W,1
+CyberFend,B2B Software and Services -> Security,"Santa Clara, CA, USA",15,Acquired,W,1
+Bluesmart,Consumer -> Consumer Electronics,"New York, NY, USA",15,Acquired,W,1
+Bizzy,B2B Software and Services -> Retail,"San Francisco, CA, USA",15,Acquired,W,1
+Smyte,B2B Software and Services -> Security,"San Francisco, CA, USA",15,Acquired,W,1
+Pomello,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",15,Acquired,W,1
+Final,Financial Technology -> Payments,"Oakland, CA, USA",15,Acquired,W,1
+ThinAir,B2B Software and Services -> Security,"Palo Alto, CA, USA",15,Not Success,W,0
+Nomiku,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Not Success,W,0
+Automate Ads,B2B Software and Services -> Marketing,"San Mateo, CA, USA",15,Not Success,W,0
+Lully,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Not Success,W,0
+Bagaveev Corporation,Industrials -> Aviation and Space,"San Mateo, CA, USA",15,Not Success,W,0
+VetPronto,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Not Success,W,0
+Standard Cyborg,Healthcare -> Medical Devices,"San Francisco, CA, USA",15,Not Success,W,0
+Spoil,Consumer -> Home and Personal,"Berkeley, CA, USA",15,Not Success,W,0
+Rescue Forensics,Government,"Nashville, TN, USA",15,Not Success,W,0
+Cinder,Consumer -> Consumer Electronics,"Palo Alto, CA, USA",15,Not Success,W,0
+Nextop,B2B Software and Services -> Infrastructure,,15,Not Success,W,0
+Glassjar,Financial Technology -> Consumer Finance,"Mountain View, CA, USA",15,Not Success,W,0
+Rare Door,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Not Success,W,0
+Shift Messenger,B2B Software and Services -> Productivity,"San Francisco, CA, USA",15,Not Success,W,0
+ReSchedule Med,Healthcare -> Healthcare IT,"New York, NY, USA",15,Not Success,W,0
+Omniref,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",15,Not Success,W,0
+Instavest,Financial Technology -> Asset Management,"Mountain View, CA, USA",15,Not Success,W,0
+GroupAhead,Consumer -> Social,"San Francisco, CA, USA",15,Not Success,W,0
+SparkGift,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",15,Not Success,W,0
+Cribspot,Real Estate and Construction -> Housing and Real Estate,"Ann Arbor, MI, USA",15,Not Success,W,0
+Booktrope,B2B Software and Services -> Marketing,"Seattle, WA, USA",15,Not Success,W,0
+20n,Healthcare -> Industrial Bio,"San Francisco, CA, USA",15,Not Success,W,0
+3dot,Consumer -> Social,"Ljubljana, Ljubljana, Slovenia",15,Not Success,W,0
+Direct Match,Financial Technology -> Banking and Exchange,"New York, NY, USA",15,Not Success,W,0
+Ironclad,B2B Software and Services -> Legal,"San Francisco, CA, USA",15,Active,S,0
+Xendit,Financial Technology -> Payments,"Jakarta, Jakarta, Indonesia",15,Active,S,0
+Go1,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",15,Active,S,0
+Teleport,B2B Software and Services -> Infrastructure,"Oakland, CA, USA",15,Active,S,0
+Human Interest,B2B Software and Services -> Human Resources,Remote,15,Active,S,0
+Fountain,B2B Software and Services -> Recruiting and Talent,Remote,15,Active,S,0
+Instawork,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",15,Active,S,0
+Eight Sleep,Consumer -> Home and Personal,Remote,15,Active,S,0
+Plate IQ,Financial Technology -> Payments,"San Francisco, CA, USA",15,Active,S,0
+Drip Capital,Financial Technology -> Credit and Lending,"MH, India",15,Active,S,0
+Verge Genomics,Healthcare -> Drug Discovery and Delivery,"San Francisco, CA, USA",15,Active,S,0
+GiveCampus,Education,Remote,15,Active,S,0
+Bitmovin,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",15,Active,S,0
+OpenInvest,Financial Technology -> Asset Management,"San Francisco, CA, USA",15,Acquired,S,1
+Tenant Turner,Real Estate and Construction -> Housing and Real Estate,"Richmond, VA, USA",15,Active,S,0
+Flirtey (SkyDrop),Industrials -> Drones,"Reno, NV, USA",15,Active,S,0
+Cofactor Genomics,Healthcare -> Diagnostics,"St. Louis, MO, USA",15,Active,S,0
+Click & Grow,Consumer -> Home and Personal,"Palo Alto, CA, USA",15,Active,S,0
+TetraScience,Healthcare -> Healthcare IT,Remote,15,Active,S,0
+Fetch,Consumer -> Transportation Services,"Atlanta, GA, USA",15,Active,S,0
+The Ticket Fairy,"Consumer -> Travel, Leisure and Tourism",Remote,15,Active,S,0
+HER,Consumer -> Social,Remote,15,Active,S,0
+Font Awesome,"B2B Software and Services -> Engineering, Product and Design",Remote,15,Active,S,0
+"80,000 Hours",Unspecified,"London, England, United Kingdom",15,Active,S,0
+Shred Video,Consumer -> Content,"San Francisco, CA, USA",15,Active,S,0
+Shape (ShapeScale),Consumer -> Consumer Electronics,"San Francisco, CA, USA",15,Active,S,0
+Scentbird,Consumer -> Apparel and Cosmetics,Remote,15,Active,S,0
+RedCarpetUp,Financial Technology -> Consumer Finance,Remote,15,Active,S,0
+PickTrace,Industrials -> Agriculture,Remote,15,Active,S,0
+Oolu,Industrials -> Energy,"Dakar, Dakar Region, Senegal",15,Active,S,0
+MicroHealth,Healthcare -> Consumer Health and Wellness,Remote,15,Active,S,0
+Zeplin,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",15,Active,S,0
+Markhor,Consumer -> Apparel and Cosmetics,Remote,15,Active,S,0
+Circle Medical,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Active,S,0
+Chaldal,Consumer -> Food and Beverage,"Dhaka, Dhaka Division, Bangladesh",15,Active,S,0
+Bodyport,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",15,Active,S,0
+Thrive Agritech,Industrials -> Agriculture,"New York, NY, USA",15,Active,S,0
+Tesorio,B2B Software and Services -> Finance and Accounting,Remote,15,Active,S,0
+Reach Labs,Industrials -> Energy,"Emeryville, CA, USA",15,Active,S,0
+SunFarmer,Unspecified,"Kathmandu, Central Development Region, Nepal",15,Active,S,0
+Foxpass,B2B Software and Services -> Security,"San Francisco, CA, USA",15,Active,S,0
+Eden,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",15,Active,S,0
+Confident Cannabis,Consumer -> Food and Beverage,Remote,15,Active,S,0
+Branch8,B2B Software and Services -> Retail,"Kowloon, Hong Kong",15,Active,S,0
+Heroic Labs,Consumer -> Gaming,"London, England, United Kingdom",15,Active,S,0
+SnapEDA,"B2B Software and Services -> Engineering, Product and Design",Remote,15,Active,S,0
+Scope AR,Consumer -> Virtual and Augmented Reality,"San Francisco, CA, USA",15,Active,S,0
+PartnerStack,B2B Software and Services -> Marketing,"Toronto, ON, Canada",15,Active,S,0
+Assembly,B2B Software and Services -> Supply Chain and Logistics,"Redwood City, CA, USA",15,Active,S,0
+Gemnote,B2B Software and Services -> Office Management,"San Leandro, CA, USA",15,Active,S,0
+New Story,Real Estate and Construction,"Atlanta, GA, USA",15,Active,S,0
+Jopwell,B2B Software and Services -> Recruiting and Talent,"New York, NY, USA",15,Active,S,0
+InnerSpace,Unspecified,"San Francisco, CA, USA",15,Active,S,0
+teaBOT,B2B Software and Services -> Human Resources,"Toronto, ON, Canada",15,Active,S,0
+Lugg,Consumer -> Home and Personal,Remote,15,Active,S,0
+Triplebyte,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",15,Active,S,0
+Gigster,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",15,Acquired,S,1
+PlateJoy,Consumer -> Food and Beverage,"San Francisco, CA, USA",15,Acquired,S,1
+Nebia,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Acquired,S,1
+Auro Robotics,Industrials -> Automotive,"Santa Clara, CA, USA",15,Acquired,S,1
+Mimir,Education,"Indianapolis, IN, USA",15,Acquired,S,1
+Blitz Esports,Consumer -> Content,"Berkeley, CA, USA",15,Acquired,S,1
+Xfers,Financial Technology -> Payments,"Singapore, Singapore",15,Acquired,S,1
+Interviewed,B2B Software and Services -> Recruiting and Talent,"Austin, TX, USA",15,Acquired,S,1
+Paribus,Financial Technology,Remote,15,Acquired,S,1
+zPREDICTA,Healthcare -> Drug Discovery and Delivery,"San Jose, CA, USA",15,Acquired,S,1
+Sphere Secure Workspace,B2B Software and Services -> Security,"London, England, United Kingdom",15,Acquired,S,1
+Cloudstitch,B2B Software and Services -> Productivity,"San Francisco, CA, USA",15,Acquired,S,1
+Appcanary,B2B Software and Services -> Security,"Toronto, ON, Canada",15,Acquired,S,1
+Bluecrew,B2B Software and Services -> Recruiting and Talent,"Chicago, IL, USA",15,Acquired,S,1
+Willing,Consumer -> Home and Personal,"Miami, FL, USA",15,Acquired,S,1
+Cymmetria,B2B Software and Services -> Security,"Tel Aviv-Yafo, Tel Aviv District, Israel",15,Acquired,S,1
+Convox,B2B Software and Services -> Infrastructure,Remote,15,Acquired,S,1
+SourceDNA,"B2B Software and Services -> Engineering, Product and Design","Oakland, CA, USA",15,Acquired,S,1
+Second Measure,B2B Software and Services -> Analytics,"San Mateo, CA, USA",15,Acquired,S,1
+L.,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Acquired,S,1
+VOIQ,B2B Software and Services -> Sales,"Redwood City, CA, USA",15,Not Success,S,0
+Halolife,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Not Success,S,0
+Vive,Consumer -> Apparel and Cosmetics,"New York, NY, USA",15,Not Success,S,0
+StyleBee,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Not Success,S,0
+Klarismo,Healthcare -> Diagnostics,"London, England, United Kingdom",15,Not Success,S,0
+Wheelys CafÃ©,Consumer -> Food and Beverage,"Stockholm, Stockholm County, Sweden",15,Not Success,S,0
+Maderight,B2B Software and Services -> Supply Chain and Logistics,"San Mateo, CA, USA",15,Not Success,S,0
+Saida,Financial Technology -> Credit and Lending,Remote,15,Not Success,S,0
+Traversal Networks,B2B Software and Services -> Security,"Mountain View, CA, USA",15,Not Success,S,0
+Seva Coffee,Consumer -> Home and Personal,"San Francisco, CA, USA",15,Not Success,S,0
+Reduced Energy Microsystems,Industrials -> Manufacturing and Robotics,"San Francisco, CA, USA",15,Not Success,S,0
+Prayas Analytics,B2B Software and Services -> Retail,"New York, NY, USA",15,Not Success,S,0
+Ohm,Industrials -> Climate,"San Jose, CA, USA",15,Not Success,S,0
+Locent,B2B Software and Services -> Marketing,"Santa Monica, CA, USA",15,Not Success,S,0
+Leada,Education,"Berkeley, CA, USA",15,Not Success,S,0
+jEugene,B2B Software and Services -> Legal,"New York, NY, USA",15,Not Success,S,0
+Bistrobot,B2B Software and Services -> Retail,"San Francisco, CA, USA",15,Not Success,S,0
+Apollo Health,"Consumer -> Travel, Leisure and Tourism",,15,Not Success,S,0
+Afrostream,Consumer -> Content,"Paris, ÃŽle-de-France, France",15,Not Success,S,0
+Stitch Health,Healthcare -> Healthcare IT,"San Francisco, CA, USA",15,Not Success,S,0
+Shotput,B2B Software and Services -> Supply Chain and Logistics,Remote,15,Not Success,S,0
+CareLedger,Healthcare -> Healthcare Services,"San Francisco, CA, USA",15,Not Success,S,0
+Call9,Healthcare -> Healthcare Services,"NY, USA",15,Not Success,S,0
+Airmada,Industrials -> Drones,"Boston, MA, USA",15,Not Success,S,0
+Hickory,B2B Software and Services -> Human Resources,"New York, NY, USA",15,Not Success,S,0
+Vernox,Real Estate and Construction -> Construction,"Berkeley, CA, USA",15,Not Success,S,0
+Pro Player,Consumer -> Gaming,Remote,15,Not Success,S,0
+ROSS Intelligence,B2B Software and Services -> Legal,"San Francisco, CA, USA",15,Not Success,S,0
+Roomblocker,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",15,Not Success,S,0
+Serica,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",15,Not Success,S,0
+Scale AI,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",16,Active,S,0
+Meesho,B2B Software and Services -> Retail,"Bengaluru, KA, India",16,Active,S,0
+MessageBird,"B2B Software and Services -> Engineering, Product and Design","Amsterdam, NH, Netherlands",16,Active,S,0
+Flutterwave,Financial Technology -> Payments,"Lagos, LA, Nigeria",16,Active,S,0
+Vetcove,B2B Software and Services -> Supply Chain and Logistics,Remote,16,Active,S,0
+Athelas,Healthcare,"Mountain View, CA, USA",16,Active,S,0
+People.ai,B2B Software and Services -> Sales,"San Francisco, CA, USA",16,Active,S,0
+Squire Technologies,Consumer -> Home and Personal,"New York, NY, USA",16,Active,S,0
+CareRev,Healthcare -> Healthcare Services,Remote,16,Active,S,0
+The Athletic,Consumer -> Content,"San Francisco, CA, USA",16,Acquired,S,1
+Joy,Consumer -> Home and Personal,Remote,16,Active,S,0
+Nova Credit,Financial Technology -> Credit and Lending,"San Francisco, CA, USA",16,Active,S,0
+Proxy,Consumer -> Consumer Electronics,Remote,16,Active,S,0
+Burrow,Consumer -> Home and Personal,"New York, NY, USA",16,Active,S,0
+WorkRamp,B2B Software and Services -> Human Resources,Remote,16,Active,S,0
+Validere,Industrials -> Energy,"Toronto, ON, Canada",16,Active,S,0
+Expo,B2B Software and Services -> Infrastructure,"Palo Alto, CA, USA",16,Active,S,0
+Elemeno Health,Healthcare -> Healthcare IT,"Oakland, CA, USA",16,Active,S,0
+Suiteness,"Consumer -> Travel, Leisure and Tourism",Remote,16,Active,S,0
+Jumpcut,Education,"Los Angeles, CA, USA",16,Active,S,0
+Quero Education,Education,"SÃ£o JosÃ© dos Campos, SP, Brazil",16,Active,S,0
+Reebeez,Industrials -> Drones,"Austin, TX, USA",16,Active,S,0
+ApolloShield,Industrials -> Drones,"Tel Aviv-Yafo, Tel Aviv District, Israel",16,Active,S,0
+Yoshi,Consumer -> Transportation Services,"Nashville, TN, USA",16,Active,S,0
+OMG Digital,Consumer -> Content,"Accra, Greater Accra Region, Ghana",16,Active,S,0
+Circa,B2B Software and Services -> Marketing,"Santa Fe, NM, USA",16,Active,S,0
+Ready Education,Consumer -> Social,"Montreal, QC, Canada",16,Active,S,0
+CrowdAI,B2B Software and Services,"San Francisco, CA, USA",16,Active,S,0
+NavTrac,Industrials -> Drones,"San Jose, CA, USA",16,Active,S,0
+SmartPath,Financial Technology -> Consumer Finance,Remote,16,Active,S,0
+Curtsy,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",16,Active,S,0
+Airfordable,Financial Technology -> Credit and Lending,Remote,16,Active,S,0
+Miso,Consumer -> Home and Personal,"Seoul, South Korea",16,Active,S,0
+Drivezy,"Consumer -> Travel, Leisure and Tourism","Bengaluru, KA, India",16,Active,S,0
+Bulldozair,Real Estate and Construction -> Construction,"Paris, ÃŽle-de-France, France",16,Active,S,0
+GoGoGrandparent,Consumer -> Home and Personal,Remote,16,Active,S,0
+HiOperator,B2B Software and Services -> Operations,"San Francisco, CA, USA",16,Active,S,0
+Synvivia,Healthcare -> Industrial Bio,"Berkeley, CA, USA",16,Active,S,0
+Legalist,Financial Technology -> Credit and Lending,Remote,16,Active,S,0
+New Incentives,Unspecified,"San Francisco, CA, USA",16,Active,S,0
+Kenota (formerly ExVivo Labs),Healthcare -> Diagnostics,"Kitchener, ON, Canada",16,Active,S,0
+garten,B2B Software and Services -> Productivity,"Burlingame, CA, USA",16,Active,S,0
+Clip Health,Healthcare -> Diagnostics,"Fremont, CA, USA",16,Active,S,0
+Multiply Labs,Industrials -> Manufacturing and Robotics,"San Francisco, CA, USA",16,Active,S,0
+Women Who Code,Unspecified,Remote,16,Active,S,0
+The Flex Company,Consumer -> Home and Personal,"Los Angeles, CA, USA",16,Active,S,0
+OneChronos,Financial Technology -> Banking and Exchange,"New York, NY, USA",16,Active,S,0
+Instrumentl,B2B Software and Services,Remote,16,Active,S,0
+Iris Automation,Industrials -> Drones,"San Francisco, CA, USA",16,Active,S,0
+RocketLit,Education,Remote,16,Active,S,0
+Livement,"Consumer -> Travel, Leisure and Tourism","Guadalajara, Jal., Mexico",16,Active,S,0
+Farmstead,Consumer -> Food and Beverage,"San Mateo, CA, USA",16,Active,S,0
+Rose Rocket,B2B Software and Services -> Supply Chain and Logistics,"Toronto, ON, Canada",16,Active,S,0
+Vote.org,Consumer,Remote,16,Active,S,0
+Upgraded,Consumer -> Consumer Electronics,Remote,16,Active,S,0
+Raptor Maps,Industrials -> Climate,"Somerville, MA, USA",16,Active,S,0
+NuCypher,B2B Software and Services -> Security,Remote,16,Active,S,0
+Prime Lightworks,Industrials -> Aviation and Space,"Culver City, CA, USA",16,Active,S,0
+RunKit,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",16,Acquired,S,1
+Starcity,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",16,Acquired,S,1
+Innov8,Real Estate and Construction -> Housing and Real Estate,"New Delhi, DL, India",16,Acquired,S,1
+Polymail,B2B Software and Services -> Productivity,"Marina del Rey, CA, USA",16,Acquired,S,1
+Saleswhale,B2B Software and Services -> Sales,"Singapore, Singapore",16,Acquired,S,1
+NeoWize,B2B Software and Services -> Retail,"Tel Aviv-Yafo, Tel Aviv District, Israel",16,Acquired,S,1
+Vidcode,Education,"San Francisco, CA, USA",16,Acquired,S,1
+Symple,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",16,Acquired,S,1
+Pursuit,Consumer -> Gaming,"San Francisco, CA, USA",16,Acquired,S,1
+Fabric,Consumer -> Social,"San Francisco, CA, USA",16,Acquired,S,1
+Techmate,Consumer -> Home and Personal,"New York, NY, USA",16,Acquired,S,1
+Opsolutely,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",16,Acquired,S,1
+SimpleCitizen,Consumer -> Home and Personal,"Salt Lake City, UT, USA",16,Acquired,S,1
+Seneca Systems,Government,"Redwood City, CA, USA",16,Acquired,S,1
+LocoAI,Industrials -> Automotive,,16,Not Success,S,0
+SkyLights,Consumer -> Virtual and Augmented Reality,"San Jose, CA, USA",16,Not Success,S,0
+UtilityScore (formerly Pando),Consumer -> Home and Personal,"Oakland, CA, USA",16,Not Success,S,0
+Lendsnap,Financial Technology -> Banking and Exchange,Remote,16,Not Success,S,0
+Ubiq,B2B Software and Services -> Productivity,"Boston, MA, USA",16,Not Success,S,0
+Abundance Labs,Consumer -> Home and Personal,"San Francisco, CA, USA",16,Not Success,S,0
+GTRACK Technologies,Industrials -> Energy,"San Francisco, CA, USA",16,Not Success,S,0
+Emote,Education,"San Mateo, CA, USA",16,Not Success,S,0
+Xberts,Consumer,"San Francisco, CA, USA",16,Not Success,S,0
+Scanate/Fellow,B2B Software and Services -> Finance and Accounting,,16,Not Success,S,0
+Starsky Robotics,Industrials -> Automotive,"San Francisco, CA, USA",16,Not Success,S,0
+Seerslab,Consumer -> Social,"Palo Alto, CA, USA",16,Not Success,S,0
+Airo Health,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",16,Not Success,S,0
+Sage Care,Healthcare -> Healthcare Services,"Toronto, ON, Canada",16,Not Success,S,0
+Coub,Consumer -> Social,"Moscow, Russia",16,Not Success,S,0
+Robby Technologies,Industrials -> Manufacturing and Robotics,"Palo Alto, CA, USA",16,Not Success,S,0
+Mosaix.ai,Consumer -> Transportation Services,"Palo Alto, CA, USA",16,Not Success,S,0
+Shield Bio,Healthcare -> Diagnostics,"San Jose, CA, USA",16,Not Success,S,0
+CoinTent,B2B Software and Services -> Marketing,"San Francisco, CA, USA",16,Not Success,S,0
+Haywheel,B2B Software and Services -> Retail,"New York, NY, USA",16,Not Success,S,0
+Looklive,Consumer -> Apparel and Cosmetics,"Atlanta, GA, USA",16,Not Success,S,0
+Metapacket,B2B Software and Services -> Security,"San Francisco, CA, USA",16,Not Success,S,0
+Sway Finance,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",16,Not Success,S,0
+Hush,Consumer -> Apparel and Cosmetics,"Los Angeles, CA, USA",16,Not Success,S,0
+Whyd,Consumer -> Consumer Electronics,"Paris, ÃŽle-de-France, France",16,Not Success,S,0
+RigPlenish,Healthcare -> Healthcare IT,"Cupertino, CA, USA",16,Not Success,S,0
+Hellobill,B2B Software and Services -> Finance and Accounting,,16,Not Success,S,0
+PatientBank,Healthcare -> Healthcare IT,"San Francisco, CA, USA",16,Not Success,S,0
+Selfycart,B2B Software and Services -> Retail,"San Mateo, CA, USA",16,Not Success,S,0
+SmartSite,Real Estate and Construction -> Construction,"London, England, United Kingdom",16,Not Success,S,0
+Mindori,B2B Software and Services -> Retail,"Palo Alto, CA, USA",16,Not Success,S,0
+Embark Trucks,Industrials -> Automotive,"San Francisco, CA, USA",16,Success,W,1
+Rappi,Consumer -> Food and Beverage,"BogotÃ¡, Bogota, Colombia",16,Active,W,0
+Relativity Space,Industrials -> Aviation and Space,"Los Angeles, CA, USA",16,Active,W,0
+Podium,B2B Software and Services -> Retail,"Lehi, UT, USA",16,Active,W,0
+Outschool,Education,Remote,16,Active,W,0
+Lattice,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",16,Active,W,0
+Opentrons,Healthcare -> Diagnostics,"New York, NY, USA",16,Active,W,0
+Mux,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",16,Active,W,0
+Salt Security,B2B Software and Services -> Security,"Palo Alto, CA, USA",16,Active,W,0
+Astranis,Industrials -> Aviation and Space,"San Francisco, CA, USA",16,Active,W,0
+Truebill,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",16,Acquired,W,1
+Boom,Industrials -> Aviation and Space,"Centennial, CO, USA",16,Active,W,0
+Sendbird,"B2B Software and Services -> Engineering, Product and Design","San Mateo, CA, USA",16,Active,W,0
+Function of Beauty,Consumer -> Apparel and Cosmetics,"New York, NY, USA",16,Active,W,0
+Apollo.io,B2B Software and Services -> Marketing,Remote,16,Active,W,0
+Gecko Robotics,Industrials -> Manufacturing and Robotics,"Houston, TX, USA",16,Active,W,0
+Superside,B2B Software and Services -> Productivity,Remote,16,Active,W,0
+FightCamp,Consumer -> Gaming,"Newport Beach, CA, USA",16,Active,W,0
+Instabug,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",16,Active,W,0
+Caper,B2B Software and Services -> Retail,,16,Acquired,W,1
+Deepgram,"B2B Software and Services -> Engineering, Product and Design",Remote,16,Active,W,0
+Iron Ox,Industrials -> Agriculture,"San Carlos, CA, USA",16,Active,W,0
+Tovala,Consumer -> Home and Personal,"Chicago, IL, USA",16,Active,W,0
+NURX,Healthcare -> Consumer Health and Wellness,"New York, NY, USA",16,Acquired,W,1
+Daily,B2B Software and Services -> Productivity,Remote,16,Active,W,0
+Netomi,B2B Software and Services -> Marketing,"San Mateo, CA, USA",16,Active,W,0
+Paystack,Financial Technology -> Payments,"Lagos, LA, Nigeria",16,Acquired,W,1
+GitPrime,"B2B Software and Services -> Engineering, Product and Design","Durango, CO, USA",16,Acquired,W,1
+Landed,Financial Technology -> Credit and Lending,"San Francisco, CA, USA",16,Active,W,0
+Focal Systems,B2B Software and Services -> Retail,"Burlingame, CA, USA",16,Active,W,0
+Mio,"B2B Software and Services -> Engineering, Product and Design","Austin, TX, USA",16,Active,W,0
+Petcube,Consumer -> Consumer Electronics,"San Francisco, CA, USA",16,Active,W,0
+Mason,B2B Software and Services,"Seattle, WA, USA",16,Active,W,0
+MagicBus,Consumer -> Transportation Services,"Los Angeles, CA, USA",16,Active,W,0
+iSono Health,Healthcare -> Medical Devices,"San Francisco, CA, USA",16,Active,W,0
+GetAccept,B2B Software and Services -> Sales,"San Francisco, CA, USA",16,Active,W,0
+AlphaFlow,Financial Technology -> Asset Management,"San Francisco, CA, USA",16,Active,W,0
+Chatfuel,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",16,Active,W,0
+Yardbook,B2B Software and Services -> Finance and Accounting,"San Mateo, CA, USA",16,Active,W,0
+VINEBOX (Usual Beverage Co.),Consumer -> Food and Beverage,"San Francisco, CA, USA",16,Active,W,0
+Stealth Worker,B2B Software and Services -> Recruiting and Talent,Remote,16,Active,W,0
+SOUNDBOKS,Consumer -> Consumer Electronics,"Copenhagen, Denmark",16,Active,W,0
+AmberBox Gunshot Detection,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",16,Active,W,0
+Qvin,Healthcare -> Consumer Health and Wellness,"Menlo Park, CA, USA",16,Active,W,0
+Perlara,Healthcare -> Drug Discovery and Delivery,Remote,16,Active,W,0
+DevColor,Unspecified,"San Francisco, CA, USA",16,Active,W,0
+Lygos,Healthcare -> Industrial Bio,"San Francisco, CA, USA",16,Active,W,0
+Zenysis,Government,"San Francisco, CA, USA",16,Active,W,0
+Bonsai,B2B Software and Services -> Finance and Accounting,Remote,16,Active,W,0
+Protonet,B2B Software and Services -> Infrastructure,,16,Active,W,0
+Wakie,Consumer -> Social,Remote,16,Active,W,0
+UroDev Medical,Healthcare -> Medical Devices,"San Clemente, CA, USA",16,Active,W,0
+Sanitation and Health Rights in India (SHRI),Unspecified,"BR, India",16,Active,W,0
+Quilt Data,"B2B Software and Services -> Engineering, Product and Design",Remote,16,Active,W,0
+Carbic,Industrials -> Energy,"San Francisco, CA, USA",16,Active,W,0
+NetBeez,B2B Software and Services -> Infrastructure,"Pittsburgh, PA, USA",16,Active,W,0
+mRelief,Unspecified,"Chicago, IL, USA",16,Active,W,0
+HistoWiz,Healthcare -> Healthcare Services,"NY, USA",16,Active,W,0
+GoLorry,B2B Software and Services -> Supply Chain and Logistics,"Hyderabad, Telangana, India",16,Active,W,0
+Lynks,Consumer -> Apparel and Cosmetics,"Alexandria Governorate, Egypt",16,Active,W,0
+Plato,B2B Software and Services -> Productivity,Remote,16,Active,W,0
+Thunkable,B2B Software and Services -> Marketing,"San Francisco, CA, USA",16,Active,W,0
+Pave,B2B Software and Services -> Analytics,"Kitchener, ON, Canada",16,Active,W,0
+Castle,B2B Software and Services -> Security,Remote,16,Active,W,0
+Measurable AI (MailTime),B2B Software and Services -> Productivity,"Hong Kong, Hong Kong",16,Active,W,0
+Bus.com,B2B Software and Services -> Office Management,"Montreal, QC, Canada",16,Active,W,0
+Revl,B2B Software and Services -> Marketing,Remote,16,Active,W,0
+PocketSuite,B2B Software and Services -> Productivity,Remote,16,Active,W,0
+Meter Feeder,Government,"Pittsburgh, PA, USA",16,Active,W,0
+InnoVein,Healthcare -> Medical Devices,"San Carlos, CA, USA",16,Active,W,0
+Gigwell,B2B Software and Services -> Productivity,"Los Angeles, CA, USA",16,Active,W,0
+Copia,B2B Software and Services -> Office Management,Remote,16,Active,W,0
+Deako,Consumer -> Home and Personal,"Seattle, WA, USA",16,Active,W,0
+Chillabit,Consumer -> Social,"Palo Alto, CA, USA",16,Active,W,0
+UpLabs,"B2B Software and Services -> Engineering, Product and Design",Remote,16,Active,W,0
+Stilt,Financial Technology -> Credit and Lending,"San Francisco, CA, USA",16,Acquired,W,1
+Kip Health,Healthcare -> Healthcare IT,"San Francisco, CA, USA",16,Acquired,W,1
+Hingeto,Consumer -> Apparel and Cosmetics,"Oakland, CA, USA",16,Acquired,W,1
+flexEngage,B2B Software and Services -> Retail,"Orlando, FL, USA",16,Acquired,W,1
+Nova,B2B Software and Services -> Sales,"San Francisco, CA, USA",16,Acquired,W,1
+Redspread,B2B Software and Services -> Infrastructure,"Mountain View, CA, USA",16,Acquired,W,1
+Emburse,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",16,Acquired,W,1
+Goodybag,B2B Software and Services -> Office Management,"Austin, TX, USA",16,Acquired,W,1
+Pulpix,B2B Software and Services -> Marketing,"New York, NY, USA",16,Acquired,W,1
+MineralSoft,Industrials -> Energy,"Austin, TX, USA",16,Acquired,W,1
+Luminist Labs,Healthcare -> Diagnostics,"Newark, CA, USA",16,Acquired,W,1
+LendEDU,Education,"Hoboken, NJ, USA",16,Acquired,W,1
+Able Health,Healthcare -> Healthcare IT,"San Francisco, CA, USA",16,Acquired,W,1
+Loop Genomics,Healthcare -> Diagnostics,"San Jose, CA, USA",16,Acquired,W,1
+Algoriz,Financial Technology -> Asset Management,"New York, NY, USA",16,Not Success,W,0
+Magic Instruments,Consumer -> Consumer Electronics,"Los Angeles, CA, USA",16,Not Success,W,0
+Compgun,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",16,Not Success,W,0
+PhysioHealth,Healthcare -> Healthcare Services,,16,Not Success,W,0
+Modal,B2B Software and Services -> Retail,"San Francisco, CA, USA",16,Not Success,W,0
+Streamup,Consumer -> Social,Remote,16,Not Success,W,0
+StrongIntro,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",16,Not Success,W,0
+Index,B2B Software and Services -> Sales,"San Francisco, CA, USA",16,Not Success,W,0
+Unnyhog,Consumer -> Gaming,"Los Angeles, CA, USA",16,Not Success,W,0
+Pathmind,"B2B Software and Services -> Engineering, Product and Design",Remote,16,Not Success,W,0
+Silver,Consumer -> Consumer Electronics,"Cupertino, CA, USA",16,Not Success,W,0
+Restocks,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",16,Not Success,W,0
+Real Artists,"B2B Software and Services -> Engineering, Product and Design",,16,Not Success,W,0
+Kisan Network,Industrials -> Agriculture,"Gurugram, HR, India",16,Not Success,W,0
+Georgette Packaging,B2B Software and Services -> Supply Chain and Logistics,"Kitchener, ON, Canada",16,Not Success,W,0
+Cover,Financial Technology -> Insurance,"San Francisco, CA, USA",16,Not Success,W,0
+Envyl,Consumer -> Home and Personal,"NY, USA",16,Not Success,W,0
+Elucify,B2B Software and Services -> Sales,"San Francisco, CA, USA",16,Not Success,W,0
+TRAC,Healthcare -> Consumer Health and Wellness,"Chicago, IL, USA",16,Not Success,W,0
+Anchor Health,Healthcare -> Healthcare IT,"San Francisco, CA, USA",16,Not Success,W,0
+Poppy,Consumer -> Home and Personal,"Seattle, WA, USA",16,Not Success,W,0
+Patchwork Security,B2B Software and Services -> Security,"Oakland, CA, USA",16,Not Success,W,0
+Interstate Analytics,B2B Software and Services -> Analytics,"San Francisco, CA, USA",16,Not Success,W,0
+ConstructVR,Consumer -> Virtual and Augmented Reality,"San Francisco, CA, USA",16,Not Success,W,0
+Castle,Real Estate and Construction -> Housing and Real Estate,"Detroit, MI, USA",16,Not Success,W,0
+Monthli,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",16,Not Success,W,0
+Start Closing,Real Estate and Construction -> Construction,"Coffeyville, KS, USA",16,Not Success,W,0
+Open Motors,Industrials -> Automotive,"Palo Alto, CA, USA",16,Not Success,W,0
+Enflux,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",16,Not Success,W,0
+Unima,Healthcare -> Diagnostics,"Zapopan, Jal., Mexico",16,Not Success,W,0
+DoseDr,Healthcare -> Consumer Health and Wellness,"Menlo Park, CA, USA",16,Not Success,W,0
+WorldCover,Financial Technology -> Insurance,"New York, NY, USA",16,Not Success,W,0
+Toymail,Consumer -> Consumer Electronics,"New York, NY, USA",16,Not Success,W,0
+Flock Safety,"B2B Software and Services -> Engineering, Product and Design","Atlanta, GA, USA",17,Active,S,0
+Truepill,Healthcare -> Healthcare IT,Remote,17,Active,S,0
+Gem,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",17,Active,S,0
+BillionToOne,Healthcare -> Diagnostics,"Menlo Park, CA, USA",17,Active,S,0
+Standard AI,B2B Software and Services -> Retail,Remote,17,Active,S,0
+Carrot Fertility,Healthcare -> Healthcare Services,"San Francisco, CA, USA",17,Active,S,0
+FAZZ,Financial Technology,"Jakarta, Jakarta, Indonesia",17,Active,S,0
+Jerry,Financial Technology -> Insurance,"Palo Alto, CA, USA",17,Active,S,0
+May Mobility,Industrials -> Automotive,"Ann Arbor, MI, USA",17,Active,S,0
+Nobell Foods,Consumer -> Food and Beverage,"San Francisco, CA, USA",17,Active,S,0
+VergeSense,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",17,Active,S,0
+Routable,B2B Software and Services -> Finance and Accounting,Remote,17,Active,S,0
+Ribbon Health,Healthcare -> Healthcare IT,"New York, NY, USA",17,Active,S,0
+Bloom Institute of Technology,Education,Remote,17,Active,S,0
+Feather,Consumer -> Home and Personal,"San Francisco, CA, USA",17,Acquired,S,1
+Cashfree Payments,Financial Technology -> Payments,"Bengaluru, KA, India",17,Active,S,0
+Long Term Stock Exchange,Financial Technology -> Banking and Exchange,Remote,17,Active,S,0
+Modern Fertility,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",17,Acquired,S,1
+AssemblyAI,B2B Software and Services -> Infrastructure,Remote,17,Active,S,0
+Gustav,B2B Software and Services -> Recruiting and Talent,Remote,17,Active,S,0
+FollowUpThen,B2B Software and Services -> Productivity,"San Jose, CA, USA",17,Active,S,0
+Thematic,B2B Software and Services -> Analytics,Remote,17,Active,S,0
+10 By 10,B2B Software and Services -> Recruiting and Talent,Remote,17,Active,S,0
+Forever Labs,Healthcare -> Therapeutics,"Ann Arbor, MI, USA",17,Active,S,0
+Just Appraised,Government,Remote,17,Active,S,0
+Goodcover,Financial Technology -> Insurance,"San Francisco, CA, USA",17,Active,S,0
+Zendar,Industrials -> Automotive,"Berkeley, CA, USA",17,Active,S,0
+Officely,B2B Software and Services -> Sales,"London, England, United Kingdom",17,Active,S,0
+Muzz (formerly muzmatch),Consumer -> Social,"London, England, United Kingdom",17,Active,S,0
+CureSkin,Healthcare -> Consumer Health and Wellness,"Bengaluru, KA, India",17,Active,S,0
+Eduflow,Education,"Copenhagen, Denmark",17,Active,S,0
+OneLocal,B2B Software and Services -> Retail,"Toronto, ON, Canada",17,Active,S,0
+Generally Intelligent,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",17,Active,S,0
+LotusPay,Financial Technology -> Payments,"Bengaluru, KA, India",17,Active,S,0
+bxblue,Financial Technology -> Credit and Lending,Remote,17,Active,S,0
+Oncobox,Healthcare -> Diagnostics,"Walnut, CA, USA",17,Active,S,0
+Tesseract,Industrials -> Aviation and Space,"Livermore, CA, USA",17,Active,S,0
+D-ID,B2B Software and Services -> Security,"Tel Aviv-Yafo, Tel Aviv District, Israel",17,Active,S,0
+Skyscrape,Industrials -> Manufacturing and Robotics,"Portland, OR, USA",17,Active,S,0
+Modular Science,Industrials -> Agriculture,"San Francisco, CA, USA",17,Active,S,0
+Flowspace,B2B Software and Services -> Supply Chain and Logistics,"Los Angeles, CA, USA",17,Active,S,0
+Piggy,Financial Technology -> Asset Management,"MH, India",17,Active,S,0
+Airthium,Industrials -> Climate,"Austin, TX, USA",17,Active,S,0
+tpaga,Financial Technology -> Payments,Remote,17,Active,S,0
+Rev Genomics,Healthcare -> Diagnostics,"Oakland, CA, USA",17,Active,S,0
+Pyka,Industrials -> Aviation and Space,"Oakland, CA, USA",17,Active,S,0
+Entocycle,Industrials -> Agriculture,"London, England, United Kingdom",17,Active,S,0
+HelpWear,Healthcare -> Medical Devices,"Toronto, ON, Canada",17,Active,S,0
+Spect,Healthcare -> Consumer Health and Wellness,Remote,17,Active,S,0
+Pop Meals,Consumer -> Food and Beverage,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",17,Active,S,0
+Koko,Healthcare -> Consumer Health and Wellness,"Palo Alto, CA, USA",17,Active,S,0
+Slik,B2B Software and Services -> Sales,"San Francisco, CA, USA",17,Active,S,0
+Rabbet,Real Estate and Construction -> Construction,Remote,17,Active,S,0
+Paladin Cyber,B2B Software and Services -> Security,"San Francisco, CA, USA",17,Active,S,0
+Prelim,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",17,Active,S,0
+Semantix,Healthcare -> Healthcare IT,"San Francisco, CA, USA",17,Active,S,0
+Advano,Industrials -> Climate,"New Orleans, LA, USA",17,Active,S,0
+Relationship Hero,Consumer -> Social,Remote,17,Active,S,0
+CocuSocial,Consumer -> Food and Beverage,Remote,17,Active,S,0
+ThereCraft,Industrials -> Drones,"Los Angeles, CA, USA",17,Active,S,0
+SafeButler,Financial Technology -> Insurance,"Sunnyvale, CA, USA",17,Active,S,0
+Darmiyan,Healthcare -> Diagnostics,"San Francisco, CA, USA",17,Active,S,0
+Nimble,Education,Remote,17,Active,S,0
+Roofr,Consumer -> Home and Personal,Remote,17,Active,S,0
+Pathrise,Education,"San Francisco, CA, USA",17,Active,S,0
+UpCodes,Real Estate and Construction -> Construction,Remote,17,Active,S,0
+Helium Health,Healthcare -> Healthcare IT,"Lagos, LA, Nigeria",17,Active,S,0
+Fam,Consumer -> Social,"New York, NY, USA",17,Active,S,0
+Releaf,B2B Software and Services -> Sales,"Lagos, LA, Nigeria",17,Active,S,0
+Leon & George,Consumer,"Los Angeles, CA, USA",17,Active,S,0
+Aecore,Real Estate and Construction -> Construction,"San Jose, CA, USA",17,Active,S,0
+AutoHub,B2B Software and Services -> Retail,"San Francisco, CA, USA",17,Active,S,0
+Sunfolding,Industrials -> Energy,"San Francisco, CA, USA",17,Active,S,0
+Skyways,Industrials -> Drones,"Austin, TX, USA",17,Active,S,0
+PullRequest,"B2B Software and Services -> Engineering, Product and Design","Austin, TX, USA",17,Acquired,S,1
+Dharma Labs,Financial Technology -> Credit and Lending,"San Francisco, CA, USA",17,Acquired,S,1
+VIDA & Co.,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",17,Acquired,S,1
+disclosures.io,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",17,Acquired,S,1
+Templarbit,B2B Software and Services -> Security,"San Francisco, CA, USA",17,Acquired,S,1
+Lyrebird,"B2B Software and Services -> Engineering, Product and Design","Montreal, QC, Canada",17,Acquired,S,1
+Headstart,B2B Software and Services -> Recruiting and Talent,"London, England, United Kingdom",17,Acquired,S,1
+Opearlo,Consumer -> Content,"London, England, United Kingdom",17,Acquired,S,1
+Percept.AI,B2B Software and Services -> Operations,"Sunnyvale, CA, USA",17,Acquired,S,1
+Honeydue,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",17,Acquired,S,1
+Guilded,Consumer -> Gaming,Remote,17,Acquired,S,1
+Surematics,Financial Technology -> Insurance,"San Francisco, CA, USA",17,Acquired,S,1
+Indivio,B2B Software and Services -> Marketing,Remote,17,Acquired,S,1
+Plasticity,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Acquired,S,1
+Meetingbird,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Acquired,S,1
+Wildfire,Consumer -> Social,"San Francisco, CA, USA",17,Acquired,S,1
+Escher Reality,Consumer -> Virtual and Augmented Reality,"Sunnyvale, CA, USA",17,Acquired,S,1
+Solve,"Consumer -> Travel, Leisure and Tourism","Las Vegas, NV, USA",17,Acquired,S,1
+Enzyme,Healthcare -> Healthcare IT,Remote,17,Acquired,S,1
+Mystery.org,Education,"San Francisco, CA, USA",17,Acquired,S,1
+Fat Llama,Consumer -> Consumer Electronics,"London, England, United Kingdom",17,Acquired,S,1
+CarDash,Consumer -> Transportation Services,"Menlo Park, CA, USA",17,Acquired,S,1
+Audm,Consumer -> Content,Remote,17,Acquired,S,1
+Py,Education,"San Francisco, CA, USA",17,Acquired,S,1
+Elucd,Government,"New York, NY, USA",17,Acquired,S,1
+WheelStreet,Consumer -> Transportation Services,"Bengaluru, KA, India",17,Not Success,S,0
+NextDrop,Industrials -> Energy,"Bengaluru, KA, India",17,Not Success,S,0
+Bumpline,Healthcare -> Healthcare Services,"San Francisco, CA, USA",17,Not Success,S,0
+Social Construct,Real Estate and Construction -> Housing and Real Estate,"San Francisco, CA, USA",17,Not Success,S,0
+Cambridge Cancer Genomics,Healthcare -> Diagnostics,"Cambridge, England, United Kingdom",17,Not Success,S,0
+Polly,Consumer -> Social,"San Francisco, CA, USA",17,Not Success,S,0
+Commissary Club (formerly 70 Million Jobs),B2B Software and Services -> Recruiting and Talent,Remote,17,Not Success,S,0
+Gamelynx,Consumer -> Gaming,"Santa Monica, CA, USA",17,Not Success,S,0
+Guggy,Consumer -> Social,"Tel Aviv-Yafo, Tel Aviv District, Israel",17,Not Success,S,0
+Fastpad,B2B Software and Services -> Recruiting and Talent,"Bengaluru, KA, India",17,Not Success,S,0
+Sunu,Consumer -> Virtual and Augmented Reality,Remote,17,Not Success,S,0
+WATERFX,Industrials -> Climate,"CA, USA",17,Not Success,S,0
+And Comfort,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",17,Not Success,S,0
+PreDxion Bio,Healthcare -> Diagnostics,"South San Francisco, CA, USA",17,Not Success,S,0
+Goosebump,Consumer -> Social,"Paris, ÃŽle-de-France, France",17,Not Success,S,0
+Storyboard,Consumer -> Social,"San Francisco, CA, USA",17,Not Success,S,0
+RideAlong,Government,"San Francisco, CA, USA",17,Not Success,S,0
+Caelum Health,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",17,Not Success,S,0
+Covetly,Consumer -> Home and Personal,"New York, NY, USA",17,Not Success,S,0
+Mystro,Consumer -> Job and Career Services,"San Francisco, CA, USA",17,Not Success,S,0
+Greo,Consumer -> Social,"Palo Alto, CA, USA",17,Not Success,S,0
+Value Voting,Government,,17,Not Success,S,0
+Sixty,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",17,Not Success,S,0
+Gameday,Consumer -> Gaming,"San Francisco, CA, USA",17,Not Success,S,0
+Dropleaf,Consumer -> Gaming,"Seattle, WA, USA",17,Not Success,S,0
+Prism Labs,Consumer -> Job and Career Services,"San Francisco, CA, USA",17,Not Success,S,0
+Passerine Aircraft,Industrials -> Aviation and Space,"Johannesburg, GP, South Africa",17,Not Success,S,0
+Faire,B2B Software and Services -> Retail,"San Francisco, CA, USA",17,Active,W,0
+Brex,Financial Technology -> Banking and Exchange,Remote,17,Active,W,0
+Rippling,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",17,Active,W,0
+Retool,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Active,W,0
+Solugen,Healthcare -> Industrial Bio,"Houston, TX, USA",17,Active,W,0
+Clipboard Health,Healthcare -> Healthcare Services,Remote,17,Active,W,0
+Bitrise,B2B Software and Services -> Infrastructure,Remote,17,Active,W,0
+"Lively, Inc.",Healthcare -> Healthcare IT,"San Francisco, CA, USA",17,Active,W,0
+Ledger Investing,Financial Technology -> Insurance,Remote,17,Active,W,0
+UpKeep,B2B Software and Services -> Office Management,"Los Angeles, CA, USA",17,Active,W,0
+Volansi,Industrials -> Drones,"San Francisco, CA, USA",17,Active,W,0
+Reliance Health,Healthcare -> Healthcare Services,"Lagos, LA, Nigeria",17,Active,W,0
+Armory,B2B Software and Services -> Infrastructure,Remote,17,Active,W,0
+Ambient.ai,B2B Software and Services -> Security,"San Jose, CA, USA",17,Active,W,0
+Soomgo,Consumer -> Home and Personal,"Seoul, South Korea",17,Active,W,0
+Snappr,B2B Software and Services,"San Francisco, CA, USA",17,Active,W,0
+Nomba,Financial Technology -> Payments,"Lagos, LA, Nigeria",17,Active,W,0
+Sigma Genetics,Healthcare -> Therapeutics,"Seattle, WA, USA",17,Active,W,0
+ACLU,Unspecified,"New York, NY, USA",17,Active,W,0
+Humi,B2B Software and Services -> Human Resources,"Toronto, ON, Canada",17,Active,W,0
+Helix Nanotechnologies,Healthcare -> Drug Discovery and Delivery,"Cambridge, MA, USA",17,Active,W,0
+Mirror AI,Consumer -> Social,Remote,17,Active,W,0
+Dost Education,Unspecified,Remote,17,Active,W,0
+The Centre for Effective Altruism,Unspecified,"Oxford, England, United Kingdom",17,Active,W,0
+Indee Labs,Healthcare -> Drug Discovery and Delivery,"Berkeley, CA, USA",17,Active,W,0
+OneFin,Financial Technology -> Credit and Lending,"Bengaluru, KA, India",17,Active,W,0
+"Wifi Dabba, Inc.",Consumer -> Home and Personal,"Bengaluru, KA, India",17,Active,W,0
+Delee,Healthcare -> Diagnostics,"Monterrey, N.L., Mexico",17,Active,W,0
+NanoNets,"B2B Software and Services -> Engineering, Product and Design",Remote,17,Active,W,0
+BIOS Health,Healthcare,"Cambridge, England, United Kingdom",17,Active,W,0
+AON3D,Industrials -> Manufacturing and Robotics,"Montreal, QC, Canada",17,Active,W,0
+Smart Alto,Real Estate and Construction -> Housing and Real Estate,Remote,17,Active,W,0
+BuyPower,Industrials -> Climate,"Federal Capital Territory, Nigeria",17,Active,W,0
+Interlock,B2B Software and Services -> Security,Remote,17,Active,W,0
+Hogaru,Consumer -> Home and Personal,"BogotÃ¡, Bogota, Colombia",17,Active,W,0
+Pilot,B2B Software and Services -> Human Resources,Remote,17,Active,W,0
+Bulk MRO Industrial Supply,B2B Software and Services -> Supply Chain and Logistics,"New York, NY, USA",17,Active,W,0
+Inboxbooster,B2B Software and Services -> Marketing,Remote,17,Active,W,0
+AlemHealth,Healthcare -> Healthcare Services,"Singapore, Singapore",17,Active,W,0
+Request Network,Financial Technology -> Payments,Remote,17,Active,W,0
+Collectly,Healthcare -> Healthcare IT,"Los Angeles, CA, USA",17,Active,W,0
+Aella,Financial Technology -> Credit and Lending,"Lagos, LA, Nigeria",17,Active,W,0
+Tolemi,Real Estate and Construction -> Housing and Real Estate,"Boston, MA, USA",17,Active,W,0
+Wright Electric,Industrials -> Aviation and Space,"Albany, NY, USA",17,Active,W,0
+"Veryfi, Inc.",B2B Software and Services -> Finance and Accounting,"San Mateo, CA, USA",17,Active,W,0
+Mednet,Healthcare -> Healthcare IT,"New York, NY, USA",17,Active,W,0
+Token Transit,Government,"San Francisco, CA, USA",17,Active,W,0
+RankScience,B2B Software and Services -> Marketing,Remote,17,Active,W,0
+Entry,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Active,W,0
+Sandbox Banking,Financial Technology -> Banking and Exchange,Remote,17,Active,W,0
+The Essential,Consumer,"San Francisco, CA, USA",17,Active,W,0
+Upcall,B2B Software and Services -> Sales,Remote,17,Active,W,0
+Beek,Consumer -> Content,"Mexico City, CDMX, Mexico",17,Active,W,0
+"Millibatt, Inc.",Industrials -> Manufacturing and Robotics,"Los Angeles, CA, USA",17,Active,W,0
+REZI,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",17,Active,W,0
+Paragon One,Education,Remote,17,Active,W,0
+MDalgorithms Inc.,Healthcare -> Consumer Health and Wellness,Remote,17,Active,W,0
+BloomAPI,Healthcare -> Healthcare IT,"Seattle, WA, USA",17,Active,W,0
+Simple Habit,Healthcare -> Consumer Health and Wellness,Remote,17,Active,W,0
+Loop Support,B2B Software and Services -> Recruiting and Talent,Remote,17,Active,W,0
+Sinovia Technologies,Industrials -> Manufacturing and Robotics,"San Carlos, CA, USA",17,Active,W,0
+Bountiful,Industrials -> Agriculture,"San Francisco, CA, USA",17,Active,W,0
+Speak,Consumer -> Social,"San Francisco, CA, USA",17,Active,W,0
+Tizeti,Consumer -> Home and Personal,"Lagos, LA, Nigeria",17,Active,W,0
+VoiceOps,B2B Software and Services -> Sales,"San Francisco, CA, USA",17,Active,W,0
+ScopeAI,B2B Software and Services -> Operations,"San Francisco, CA, USA",17,Acquired,W,1
+Peer5,B2B Software and Services -> Infrastructure,"Palo Alto, CA, USA",17,Acquired,W,1
+KidPass,Education,Remote,17,Acquired,W,1
+Playment,"B2B Software and Services -> Engineering, Product and Design","Bengaluru, KA, India",17,Acquired,W,1
+Terark,B2B Software and Services -> Infrastructure,"Beijing, Beijing, China",17,Acquired,W,1
+ZipX,Consumer -> Food and Beverage,"Hong Kong Island, Hong Kong",17,Acquired,W,1
+Bulletin,B2B Software and Services -> Retail,"New York, NY, USA",17,Acquired,W,1
+Breaker,Consumer -> Content,"San Francisco, CA, USA",17,Acquired,W,1
+Tetra,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Acquired,W,1
+WaystoCap,B2B Software and Services -> Office Management,"Casablanca, Casablanca-Settat, Morocco",17,Acquired,W,1
+Supr Daily,Consumer -> Food and Beverage,"Bengaluru, KA, India",17,Acquired,W,1
+Hivy,B2B Software and Services -> Office Management,"San Francisco, CA, USA",17,Acquired,W,1
+Penny,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",17,Acquired,W,1
+Wavy,Consumer -> Virtual and Augmented Reality,"Paris, ÃŽle-de-France, France",17,Acquired,W,1
+Fiix,Consumer -> Transportation Services,"Toronto, ON, Canada",17,Acquired,W,1
+Scaphold.io,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",17,Acquired,W,1
+Shipamax,B2B Software and Services -> Supply Chain and Logistics,"London, England, United Kingdom",17,Acquired,W,1
+Arthena,Financial Technology -> Asset Management,"New York, NY, USA",17,Acquired,W,1
+lvl5,Industrials -> Automotive,,17,Acquired,W,1
+Scribe,B2B Software and Services -> Sales,"Bengaluru, KA, India",17,Acquired,W,1
+Clear Genetics,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",17,Acquired,W,1
+No Lean Season,Unspecified,Remote,17,Not Success,W,0
+Anasen,B2B Software and Services -> Analytics,Remote,17,Not Success,W,0
+Niles,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Not Success,W,0
+SourceBeacon,Consumer -> Home and Personal,,17,Not Success,W,0
+Voodoo Manufacturing,Industrials -> Manufacturing and Robotics,"NY, USA",17,Not Success,W,0
+Bicycle AI,B2B Software and Services -> Operations,"Bengaluru, KA, India",17,Not Success,W,0
+Marketfox,B2B Software and Services -> Marketing,Remote,17,Not Success,W,0
+FloydHub,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",17,Not Success,W,0
+Neema,Financial Technology -> Consumer Finance,"Tel Aviv-Yafo, Tel Aviv District, Israel",17,Not Success,W,0
+Arylla,Industrials -> Manufacturing and Robotics,"Kitchener, ON, Canada",17,Not Success,W,0
+Firsthand,B2B Software and Services -> Retail,,17,Not Success,W,0
+Rally Tennis,Consumer,"Denver, CO, USA",17,Not Success,W,0
+Sycamore,B2B Software and Services -> Recruiting and Talent,,17,Not Success,W,0
+Fibo,B2B Software and Services -> Productivity,"San Francisco, CA, USA",17,Not Success,W,0
+InnaMed,Healthcare -> Diagnostics,"Philadelphia, PA, USA",17,Not Success,W,0
+Volt Health,Healthcare -> Medical Devices,"Mountain View, CA, USA",17,Not Success,W,0
+Origin,B2B Software and Services -> Office Management,"San Francisco, CA, USA",17,Not Success,W,0
+VanGo,Consumer -> Home and Personal,"New York, NY, USA",17,Not Success,W,0
+Sudden Coffee,Consumer -> Food and Beverage,"San Francisco, CA, USA",17,Not Success,W,0
+Tress,Consumer -> Social,"Accra, Greater Accra Region, Ghana",17,Not Success,W,0
+Zinc Platform,Financial Technology -> Insurance,"New York, NY, USA",17,Not Success,W,0
+Cartcam,Consumer -> Home and Personal,,17,Not Success,W,0
+Pulse,Healthcare -> Consumer Health and Wellness,"Bengaluru, KA, India",17,Not Success,W,0
+LitHit,Consumer -> Consumer Electronics,,17,Not Success,W,0
+Pit.AI,Financial Technology -> Asset Management,"San Francisco, CA, USA",17,Not Success,W,0
+Riley,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",17,Not Success,W,0
+Pearl,B2B Software and Services -> Office Management,"San Francisco, CA, USA",17,Not Success,W,0
+Cowlar,Industrials -> Agriculture,"Memphis, TN, USA",17,Not Success,W,0
+boxouse,Real Estate and Construction -> Housing and Real Estate,"Oakland, CA, USA",17,Not Success,W,0
+Trade,Industrials -> Agriculture,"Broken Arrow, OK, USA",17,Not Success,W,0
+Momentus,Industrials -> Aviation and Space,"Santa Clara, CA, USA",18,Success,S,1
+Modern Treasury,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",18,Active,S,0
+Papa,Healthcare -> Healthcare IT,"Miami, FL, USA",18,Active,S,0
+Titan,Financial Technology -> Asset Management,"New York, NY, USA",18,Active,S,0
+Ajaib,Financial Technology -> Banking and Exchange,Remote,18,Active,S,0
+Khatabook,Financial Technology -> Payments,"Bengaluru, KA, India",18,Active,S,0
+Mutiny,B2B Software and Services -> Marketing,Remote,18,Active,S,0
+OpenPhone,B2B Software and Services -> Operations,Remote,18,Active,S,0
+Duffel,B2B Software and Services,"London, England, United Kingdom",18,Active,S,0
+RevenueCat,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Active,S,0
+OkCredit,Financial Technology -> Payments,"Bengaluru, KA, India",18,Active,S,0
+Avo,Consumer -> Home and Personal,"Tel Aviv-Yafo, Tel Aviv District, Israel",18,Active,S,0
+Curebase,Healthcare -> Healthcare Services,Remote,18,Active,S,0
+Fintual,Financial Technology -> Consumer Finance,"Santiago, Santiago Metropolitan Region, Chile",18,Active,S,0
+64x Bio,Healthcare -> Industrial Bio,"San Francisco, CA, USA",18,Active,S,0
+Culdesac,Real Estate and Construction -> Housing and Real Estate,"Tempe, AZ, USA",18,Active,S,0
+Kobo360,B2B Software and Services -> Supply Chain and Logistics,"Lagos, LA, Nigeria",18,Active,S,0
+Shelf Engine,B2B Software and Services -> Retail,"Seattle, WA, USA",18,Active,S,0
+Meru Health,Healthcare -> Consumer Health and Wellness,"San Mateo, CA, USA",18,Active,S,0
+Pine Park Health,Healthcare -> Medical Devices,"Oakland, CA, USA",18,Active,S,0
+Kunduz,Education,"Istanbul, Istanbul, Turkey",18,Active,S,0
+Aesthetic,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Active,S,0
+Kinside,B2B Software and Services -> Human Resources,Remote,18,Active,S,0
+Gerostate Alpha,Healthcare -> Therapeutics,"Novato, CA, USA",18,Active,S,0
+Circumvent,Healthcare -> Therapeutics,,18,Active,S,0
+Rejuvenation Technologies Inc.,Healthcare -> Therapeutics,"Mountain View, CA, USA",18,Active,S,0
+Dorian therapeutics,Healthcare -> Therapeutics,"San Carlos, CA, USA",18,Active,S,0
+iLabService,B2B Software and Services -> Productivity,"Shanghai, Shanghai, China",18,Active,S,0
+LemonBox,Consumer -> Home and Personal,"Beijing, Beijing, China",18,Active,S,0
+Enveritas,Industrials -> Agriculture,"New York, NY, USA",18,Active,S,0
+SPATE,B2B Software and Services -> Retail,"New York, NY, USA",18,Active,S,0
+Oxygen,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",18,Active,S,0
+"Mark Cuban Cost Plus Drug Company, PBC",Healthcare -> Consumer Health and Wellness,,18,Active,S,0
+AnnieCannons,Education,"Oakland, CA, USA",18,Active,S,0
+Leena AI,B2B Software and Services -> Human Resources,"New Delhi, DL, India",18,Active,S,0
+Synkrino Biotherapeutics,Healthcare -> Drug Discovery and Delivery,"Oakland, CA, USA",18,Active,S,0
+Cowrywise,Financial Technology -> Asset Management,"Lagos, LA, Nigeria",18,Active,S,0
+Helicarrier (prev Buycoins),Financial Technology -> Banking and Exchange,"Lagos, LA, Nigeria",18,Active,S,0
+BrainHi,Healthcare -> Healthcare IT,"San Juan, San Juan, Puerto Rico",18,Active,S,0
+Four Growers,Industrials -> Agriculture,"Pittsburgh, PA, USA",18,Active,S,0
+SkydropX,B2B Software and Services -> Supply Chain and Logistics,"Monterrey, N.L., Mexico",18,Active,S,0
+Eva Center,Healthcare -> Healthcare IT,"Mexico City, CDMX, Mexico",18,Active,S,0
+Nova,Financial Technology,"New York, NY, USA",18,Active,S,0
+Nestor,B2B Software and Services -> Human Resources,Remote,18,Active,S,0
+ZiffyHomes,Real Estate and Construction -> Housing and Real Estate,"Gurugram, HR, India",18,Active,S,0
+Bot MD,Healthcare -> Healthcare Services,"Singapore, Singapore",18,Active,S,0
+Names & Faces,B2B Software and Services -> Human Resources,"Palo Alto, CA, USA",18,Active,S,0
+Tenderd,B2B Software and Services,"Dubai, United Arab Emirates",18,Active,S,0
+Calii,Consumer -> Food and Beverage,"Monterrey, N.L., Mexico",18,Active,S,0
+Prodigal,Financial Technology -> Credit and Lending,"Mountain View, CA, USA",18,Active,S,0
+The Supplant Company,Consumer -> Food and Beverage,"Cambridge, England, United Kingdom",18,Active,S,0
+Canary Technologies,B2B Software and Services -> Operations,"San Francisco, CA, USA",18,Active,S,0
+MentalHappy,Healthcare -> Consumer Health and Wellness,Remote,18,Active,S,0
+Molecular Reality,Healthcare -> Diagnostics,"San Francisco, CA, USA",18,Active,S,0
+Alpha Vantage,Financial Technology -> Banking and Exchange,"Boston, MA, USA",18,Active,S,0
+BlueCargo,B2B Software and Services -> Supply Chain and Logistics,"Los Angeles, CA, USA",18,Active,S,0
+Mytos,Healthcare -> Industrial Bio,"London, England, United Kingdom",18,Active,S,0
+HappiLabs,Healthcare -> Healthcare Services,"Chicago, IL, USA",18,Active,S,0
+CB Therapeutics,Healthcare -> Industrial Bio,"San Diego, CA, USA",18,Active,S,0
+Rain Neuromorphics,Industrials -> Manufacturing and Robotics,"Redwood City, CA, USA",18,Active,S,0
+"DreamCraft Entertainment, Inc.",Consumer -> Gaming,"Redwood City, CA, USA",18,Active,S,0
+Ubits,B2B Software and Services -> Human Resources,Remote,18,Active,S,0
+Purple Plate,Consumer -> Food and Beverage,"San Francisco, CA, USA",18,Active,S,0
+Quickchat AI,B2B Software and Services -> Productivity,"Warsaw, Masovian Voivodeship, Poland",18,Active,S,0
+Regology,B2B Software and Services -> Legal,"Palo Alto, CA, USA",18,Active,S,0
+Impactive (formerly Outvote),Government,Remote,18,Active,S,0
+Berbix,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",18,Active,S,0
+Corvus Robotics,Industrials -> Drones,"Mountain View, CA, USA",18,Active,S,0
+Easol,B2B Software and Services,"Lisbon, Lisbon, Portugal",18,Active,S,0
+Ixora,Consumer -> Virtual and Augmented Reality,"Palo Alto, CA, USA",18,Active,S,0
+Tall Poppy,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",18,Active,S,0
+Pocket Worlds,Consumer -> Social,Remote,18,Active,S,0
+Anima App,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",18,Active,S,0
+Savvy,B2B Software and Services -> Productivity,"San Francisco, CA, USA",18,Active,S,0
+Vimcal,B2B Software and Services -> Productivity,Remote,18,Active,S,0
+Paladin,Industrials -> Drones,"Houston, TX, USA",18,Active,S,0
+Clear Gene,Healthcare -> Diagnostics,"San Carlos, CA, USA",18,Active,S,0
+Radix Labs,Healthcare -> Diagnostics,"Cambridge, MA, USA",18,Active,S,0
+Hepatx,Healthcare -> Therapeutics,"Palo Alto, CA, USA",18,Active,S,0
+The Good Food Institute,Consumer -> Food and Beverage,"Washington, DC, USA",18,Active,S,0
+Rebellyous Foods,Healthcare -> Industrial Bio,"Seattle, WA, USA",18,Active,S,0
+Spero Foods,Healthcare -> Industrial Bio,"Oakland, CA, USA",18,Active,S,0
+AskMyClass,Education,Remote,18,Active,S,0
+Optic,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Active,S,0
+College Pulse,B2B Software and Services -> Analytics,"San Francisco, CA, USA",18,Active,S,0
+Apprentice Health,Healthcare -> Healthcare IT,"Boston, MA, USA",18,Active,S,0
+JITX,Industrials -> Manufacturing and Robotics,"Berkeley, CA, USA",18,Active,S,0
+Inscribe,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",18,Active,S,0
+Data Driven Bioscience,Healthcare -> Diagnostics,"Durham, NC, USA",18,Active,S,0
+Activeloop,B2B Software and Services -> Infrastructure,"Mountain View, CA, USA",18,Active,S,0
+OpenWrench,B2B Software and Services -> Operations,"San Francisco, CA, USA",18,Active,S,0
+Federacy,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Active,S,0
+Verse Medical,Healthcare -> Consumer Health and Wellness,"New York, NY, USA",18,Active,S,0
+Satchel,Financial Technology -> Payments,"San Francisco, CA, USA",18,Active,S,0
+Dinesafe,Healthcare -> Consumer Health and Wellness,Remote,18,Active,S,0
+"numericcal, inc.","B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",18,Active,S,0
+C16 Biosciences,Healthcare -> Industrial Bio,"New York, NY, USA",18,Active,S,0
+Klarity,B2B Software and Services -> Legal,"San Francisco, CA, USA",18,Active,S,0
+OWNY,Financial Technology -> Asset Management,Remote,18,Active,S,0
+Honeylove,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",18,Active,S,0
+Allotrope Medical,Healthcare -> Medical Devices,"Houston, TX, USA",18,Active,S,0
+Grin,Consumer -> Transportation Services,"Mexico City, CDMX, Mexico",18,Acquired,S,1
+Coral Genomics,Healthcare -> Drug Discovery and Delivery,"San Francisco, CA, USA",18,Acquired,S,1
+HeyDoctor,Healthcare -> Healthcare IT,"San Francisco, CA, USA",18,Acquired,S,1
+hypcloud,Real Estate and Construction -> Housing and Real Estate,"Berlin, Berlin, Germany",18,Acquired,S,1
+CSPA,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",18,Acquired,S,1
+Scanwell Health,Healthcare -> Diagnostics,Remote,18,Acquired,S,1
+OneGraph,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",18,Acquired,S,1
+Demeanor.co,Consumer -> Social,"Los Angeles, CA, USA",18,Acquired,S,1
+Lowkey,Consumer -> Gaming,"San Francisco, CA, USA",18,Acquired,S,1
+Phiar,Industrials -> Automotive,"Redwood City, CA, USA",18,Acquired,S,1
+Perception Biosystems,Healthcare -> Therapeutics,"Palo Alto, CA, USA",18,Not Success,S,0
+dNovo,Healthcare -> Therapeutics,"San Jose, CA, USA",18,Not Success,S,0
+Goodly,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",18,Not Success,S,0
+FameGame,Consumer -> Social,,18,Not Success,S,0
+BHRD,B2B Software and Services -> Finance and Accounting,"Toronto, ON, Canada",18,Not Success,S,0
+The Buttermilk Company,Consumer -> Food and Beverage,"Seattle, WA, USA",18,Not Success,S,0
+LabelFlow,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Not Success,S,0
+Grabb-It,B2B Software and Services -> Marketing,"Milpitas, CA, USA",18,Not Success,S,0
+Medinas Health,Healthcare -> Healthcare Services,Remote,18,Not Success,S,0
+INKHUNTER,Consumer -> Virtual and Augmented Reality,"San Francisco, CA, USA",18,Not Success,S,0
+Mylk Guys,Consumer -> Food and Beverage,"San Francisco, CA, USA",18,Not Success,S,0
+ShopWith,B2B Software and Services -> Marketing,"San Francisco, CA, USA",18,Not Success,S,0
+Inokyo,B2B Software and Services -> Retail,"San Francisco, CA, USA",18,Not Success,S,0
+Contrast,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",18,Not Success,S,0
+Xkit,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Not Success,S,0
+FREY,Consumer -> Apparel and Cosmetics,"CA, USA",18,Not Success,S,0
+Passenger AI,Industrials -> Automotive,"Toronto, ON, Canada",18,Not Success,S,0
+ExceptionALLY,Education,"Atlanta, GA, USA",18,Not Success,S,0
+User Hero,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Not Success,S,0
+Penta Medical,Healthcare -> Consumer Health and Wellness,"Waterloo, ON, Canada",18,Not Success,S,0
+Warpdrive by Synthetic Minds,B2B Software and Services -> Productivity,Remote,18,Not Success,S,0
+OpenSea,Consumer -> Content,"San Francisco, CA, USA",18,Active,W,0
+Groww,Financial Technology -> Asset Management,"Bengaluru, KA, India",18,Active,W,0
+Newfront,Financial Technology -> Insurance,"San Francisco, CA, USA",18,Active,W,0
+Vanta,B2B Software and Services -> Security,"San Francisco, CA, USA",18,Active,W,0
+Jasper.ai,"B2B Software and Services -> Engineering, Product and Design","Austin, TX, USA",18,Active,W,0
+Veriff,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",18,Active,W,0
+CoinTracker,Financial Technology,Remote,18,Active,W,0
+CaptivateIQ,B2B Software and Services -> Finance and Accounting,Remote,18,Active,W,0
+Modern Health,Healthcare -> Healthcare Services,Remote,18,Active,W,0
+Quantstamp,B2B Software and Services -> Security,Remote,18,Active,W,0
+Replit,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",18,Active,W,0
+Observe.AI,B2B Software and Services -> Sales,"San Francisco, CA, USA",18,Active,W,0
+Substack,B2B Software and Services -> Marketing,"San Francisco, CA, USA",18,Active,W,0
+Shogun,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Active,W,0
+Promise,Government,Remote,18,Active,W,0
+Let's Do This,"Consumer -> Travel, Leisure and Tourism","London, England, United Kingdom",18,Active,W,0
+Memora Health,Healthcare -> Healthcare IT,"San Francisco, CA, USA",18,Active,W,0
+Aspire,Financial Technology -> Payments,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",18,Active,W,0
+Snackpass,Consumer -> Food and Beverage,"San Francisco, CA, USA",18,Active,W,0
+Proven,Consumer,Remote,18,Active,W,0
+SRTX,Industrials -> Manufacturing and Robotics,"Montreal, QC, Canada",18,Active,W,0
+Mighty Buildings,Real Estate and Construction -> Housing and Real Estate,"Oakland, CA, USA",18,Active,W,0
+Delphia,Financial Technology -> Consumer Finance,Remote,18,Active,W,0
+Treasury Prime,Financial Technology -> Banking and Exchange,Remote,18,Active,W,0
+Torch,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",18,Active,W,0
+Super,Consumer,"Surabaya, East Java, Indonesia",18,Active,W,0
+Culture Biosciences,Healthcare -> Industrial Bio,"South San Francisco, CA, USA",18,Active,W,0
+Quit Genius,Consumer -> Content,"New York, NY, USA",18,Active,W,0
+Sqreen,B2B Software and Services -> Security,"San Francisco, CA, USA",18,Acquired,W,1
+Nuvocargo,B2B Software and Services -> Supply Chain and Logistics,"Mexico City, CDMX, Mexico",18,Active,W,0
+Bear Flag Robotics,Industrials -> Agriculture,"Newark, CA, USA",18,Acquired,W,1
+SafetyWing,Financial Technology -> Insurance,Remote,18,Active,W,0
+Volley,Consumer -> Gaming,"San Francisco, CA, USA",18,Active,W,0
+Swayable,B2B Software and Services -> Marketing,"New York, NY, USA",18,Active,W,0
+FidoCureÂ®,Healthcare -> Healthcare Services,Remote,18,Active,W,0
+Aerones,Industrials -> Drones,"Riga, Latvia",18,Active,W,0
+Helloverify,B2B Software and Services -> Human Resources,"Noida, UP, India",18,Active,W,0
+Runa,B2B Software and Services -> Human Resources,"Mexico City, CDMX, Mexico",18,Active,W,0
+ErudiFi,Financial Technology -> Credit and Lending,"Jakarta, Jakarta, Indonesia",18,Active,W,0
+Vena Medical,Healthcare -> Medical Devices,"Kitchener, ON, Canada",18,Active,W,0
+Mind Emulation Foundation,Healthcare -> Therapeutics,,18,Active,W,0
+Anjuna,B2B Software and Services -> Security,"Palo Alto, CA, USA",18,Active,W,0
+Tarjimly,Consumer -> Social,Remote,18,Active,W,0
+Callisto,Consumer -> Home and Personal,"San Francisco, CA, USA",18,Active,W,0
+Jido Maps,B2B Software and Services -> Infrastructure,Remote,18,Active,W,0
+Ben,Financial Technology -> Banking and Exchange,"San Diego, CA, USA",18,Active,W,0
+ZBiotics,Healthcare -> Consumer Health and Wellness,"San Francisco, CA, USA",18,Active,W,0
+ArchForm,Healthcare -> Medical Devices,"Sunnyvale, CA, USA",18,Active,W,0
+AlgoSurg Inc,Healthcare -> Healthcare Services,"MH, India",18,Active,W,0
+OSIMple,Real Estate and Construction -> Construction,"Kitchener, ON, Canada",18,Active,W,0
+YouTeam,B2B Software and Services -> Recruiting and Talent,"Mountain View, CA, USA",18,Active,W,0
+Orangewood Labs,Industrials -> Manufacturing and Robotics,"San Francisco, CA, USA",18,Active,W,0
+Mojo,Consumer -> Virtual and Augmented Reality,"Paris, ÃŽle-de-France, France",18,Active,W,0
+SharpestMinds,B2B Software and Services -> Recruiting and Talent,Remote,18,Active,W,0
+Gainful,Consumer -> Food and Beverage,"New York, NY, USA",18,Active,W,0
+Cognition IP,B2B Software and Services -> Legal,Remote,18,Active,W,0
+Players' Lounge,Consumer -> Gaming,"NY, USA",18,Active,W,0
+Psylaris,Healthcare -> Healthcare Services,"Maastricht, LI, Netherlands",18,Active,W,0
+Juni,Education,"San Francisco, CA, USA",18,Active,W,0
+Universe,Consumer -> Content,Remote,18,Active,W,0
+Podcast App,Consumer -> Content,Remote,18,Active,W,0
+Supermedium,Consumer -> Virtual and Augmented Reality,"San Francisco, CA, USA",18,Active,W,0
+Tributi,Consumer -> Home and Personal,"Antioquia, Colombia",18,Active,W,0
+Viaopt,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",18,Active,W,0
+Sourcify,B2B Software and Services -> Retail,Remote,18,Active,W,0
+Plexus,Consumer -> Virtual and Augmented Reality,"London, England, United Kingdom",18,Active,W,0
+Correlia Biosystems,Healthcare -> Diagnostics,"Berkeley, CA, USA",18,Active,W,0
+BioRender,Healthcare -> Healthcare IT,Remote,18,Active,W,0
+Evry Health,Healthcare -> Healthcare Services,"Dallas, TX, USA",18,Active,W,0
+tEQuitable,B2B Software and Services -> Human Resources,"Oakland, CA, USA",18,Active,W,0
+EnvKey,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Active,W,0
+Meitre,B2B Software and Services -> Retail,Remote,18,Active,W,0
+Draftbit,"B2B Software and Services -> Engineering, Product and Design","Chicago, IL, USA",18,Active,W,0
+LUS Brands,Consumer -> Apparel and Cosmetics,"Toronto, ON, Canada",18,Active,W,0
+Dear Brightly,Healthcare -> Consumer Health and Wellness,Remote,18,Active,W,0
+AesculaTech,Healthcare -> Medical Devices,"Los Angeles, CA, USA",18,Active,W,0
+Reverie Labs,Healthcare -> Therapeutics,"Cambridge, MA, USA",18,Active,W,0
+Glimpse K12,Education,"Huntsville, AL, USA",18,Active,W,0
+Persephone Biosciences,Healthcare -> Therapeutics,"San Diego, CA, USA",18,Active,W,0
+Tingles,Consumer -> Content,"San Francisco, CA, USA",18,Active,W,0
+Tradewind BioScience,Healthcare -> Therapeutics,"San Francisco, CA, USA",18,Active,W,0
+Nectome,Healthcare -> Therapeutics,"South San Francisco, CA, USA",18,Active,W,0
+Biobot Analytics,Government,"Cambridge, MA, USA",18,Active,W,0
+NEXGENT,Education,"San Jose, CA, USA",18,Active,W,0
+Macromoltek,Healthcare -> Drug Discovery and Delivery,"Austin, TX, USA",18,Active,W,0
+Patchd Medical,Healthcare -> Healthcare IT,"San Francisco, CA, USA",18,Active,W,0
+Avro Life Science,Healthcare -> Drug Discovery and Delivery,"Waterloo, ON, Canada",18,Active,W,0
+Simetrik,Consumer -> Apparel and Cosmetics,"BogotÃ¡, Bogota, Colombia",18,Active,W,0
+Key Values,B2B Software and Services -> Recruiting and Talent,,18,Active,W,0
+Slite,B2B Software and Services -> Productivity,Remote,18,Active,W,0
+Glowing.io,B2B Software and Services,"Las Vegas, NV, USA",18,Active,W,0
+Sixfold Bioscience,Healthcare -> Drug Discovery and Delivery,"London, England, United Kingdom",18,Active,W,0
+Worklytics,B2B Software and Services -> Analytics,"Seattle, WA, USA",18,Active,W,0
+Fondo,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",18,Active,W,0
+Observant,B2B Software and Services -> Operations,Remote,18,Active,W,0
+Copilot,B2B Software and Services -> Infrastructure,"New York, NY, USA",18,Active,W,0
+Ovipost,Industrials -> Agriculture,"LaBelle, FL, USA",18,Active,W,0
+Blueberry Medical,Healthcare -> Healthcare IT,"Mountain View, CA, USA",18,Active,W,0
+Beanstalk,Industrials -> Agriculture,"Washington, DC, USA",18,Active,W,0
+Spellbrush,Consumer -> Gaming,"San Francisco, CA, USA",18,Active,W,0
+Precious,Consumer -> Social,Remote,18,Active,W,0
+Sketchbox,Consumer -> Virtual and Augmented Reality,Remote,18,Active,W,0
+"Lucy Goods, Inc",Consumer -> Food and Beverage,"Los Angeles, CA, USA",18,Active,W,0
+Look After My Bills,Financial Technology -> Consumer Finance,"England, United Kingdom",18,Acquired,W,1
+Qulture.Rocks,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",18,Acquired,W,1
+Swipehouse,Consumer -> Social,"Cambridge, MA, USA",18,Acquired,W,1
+Medumo,Healthcare -> Healthcare IT,"Boston, MA, USA",18,Acquired,W,1
+Zyper,B2B Software and Services -> Marketing,"San Francisco, CA, USA",18,Acquired,W,1
+Dataform,B2B Software and Services -> Analytics,"London, England, United Kingdom",18,Acquired,W,1
+Naborly,Real Estate and Construction -> Housing and Real Estate,"Toronto, ON, Canada",18,Acquired,W,1
+Hunter2,B2B Software and Services -> Security,"Boston, MA, USA",18,Acquired,W,1
+Lawyaw,B2B Software and Services -> Legal,"San Francisco, CA, USA",18,Acquired,W,1
+Edwin,Education,Remote,18,Acquired,W,1
+Flinto,Financial Technology -> Payments,"Mexico City, CDMX, Mexico",18,Acquired,W,1
+NewCraft,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Acquired,W,1
+Squad,Consumer -> Social,Remote,18,Acquired,W,1
+CodeStream,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Acquired,W,1
+onederful,Healthcare -> Healthcare IT,Remote,18,Acquired,W,1
+ClearBrain,B2B Software and Services -> Marketing,"San Francisco, CA, USA",18,Acquired,W,1
+Pulse,B2B Software and Services -> Productivity,"San Francisco, CA, USA",18,Acquired,W,1
+Mayhem,Consumer -> Gaming,"San Francisco, CA, USA",18,Acquired,W,1
+Lambda Tea,Consumer -> Food and Beverage,,18,Not Success,W,0
+Hexel,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",18,Not Success,W,0
+Point API,B2B Software and Services -> Productivity,"Cambridge, MA, USA",18,Not Success,W,0
+Secured,Consumer -> Apparel and Cosmetics,Remote,18,Not Success,W,0
+Iambiq Technologies,"B2B Software and Services -> Engineering, Product and Design","Washington, DC, USA",18,Not Success,W,0
+Voicery,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Not Success,W,0
+Hopper,Industrials -> Energy,"Montreal, QC, Canada",18,Not Success,W,0
+Atrium,B2B Software and Services -> Legal,"San Francisco, CA, USA",18,Not Success,W,0
+Pagedraw,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",18,Not Success,W,0
+Shone,Industrials -> Manufacturing and Robotics,"San Francisco, CA, USA",18,Not Success,W,0
+Vathys,Industrials -> Manufacturing and Robotics,Remote,18,Not Success,W,0
+Station,B2B Software and Services -> Productivity,Remote,18,Not Success,W,0
+Nutrigene,Consumer -> Food and Beverage,"San Francisco, CA, USA",18,Not Success,W,0
+Storyline,"B2B Software and Services -> Engineering, Product and Design","London, England, United Kingdom",18,Not Success,W,0
+miru,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",18,Not Success,W,0
+Wing It,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",18,Not Success,W,0
+Haiku,"B2B Software and Services -> Engineering, Product and Design",Remote,18,Not Success,W,0
+Meson,Consumer,Remote,18,Not Success,W,0
+Aalo,Consumer -> Home and Personal,"Toronto, ON, Canada",18,Not Success,W,0
+Openland,Consumer -> Social,Remote,18,Not Success,W,0
+Curious Fictions,Consumer -> Content,"San Francisco, CA, USA",18,Not Success,W,0
+OurMenu,B2B Software and Services -> Retail,,18,Not Success,W,0
+Skip,Consumer -> Transportation Services,"San Francisco, CA, USA",18,Not Success,W,0
+Closer Sports,Healthcare -> Healthcare IT,,18,Not Success,W,0
+Tipe,B2B Software and Services -> Infrastructure,Remote,18,Not Success,W,0
+Necto,Consumer -> Home and Personal,"San Francisco, CA, USA",18,Not Success,W,0
+Rhythmm,Consumer -> Social,"Mountain View, CA, USA",18,Not Success,W,0
+California Dreamin,Consumer -> Food and Beverage,Remote,18,Not Success,W,0
+Deel,B2B Software and Services -> Finance and Accounting,Remote,19,Active,W,0
+Prometheus,Industrials -> Energy,"Santa Cruz, CA, USA",19,Active,W,0
+Nowports,B2B Software and Services -> Supply Chain and Logistics,Remote,19,Active,W,0
+Frubana Inc,B2B Software and Services -> Supply Chain and Logistics,"Mexico City, CDMX, Mexico",19,Active,W,0
+Middesk,B2B Software and Services -> Operations,"San Francisco, CA, USA",19,Active,W,0
+Kalshi,Financial Technology,"New York, NY, USA",19,Active,W,0
+Shipper,B2B Software and Services -> Supply Chain and Logistics,"Jakarta, Jakarta, Indonesia",19,Active,W,0
+Postscript,B2B Software and Services -> Marketing,Remote,19,Active,W,0
+Alpaca,Financial Technology -> Banking and Exchange,Remote,19,Active,W,0
+Shef,Consumer -> Food and Beverage,Remote,19,Active,W,0
+Kovi,Financial Technology -> Credit and Lending,"SÃ£o Paulo, SP, Brazil",19,Active,W,0
+Career Karma,Consumer -> Job and Career Services,"San Francisco, CA, USA",19,Active,W,0
+Pachama,Industrials -> Climate,Remote,19,Active,W,0
+Atlas,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",19,Active,W,0
+Convictional,B2B Software and Services -> Retail,"Toronto, ON, Canada",19,Active,W,0
+Endpoint Health,Healthcare -> Therapeutics,Remote,19,Active,W,0
+Skill-lync,Education,"Chennai, TN, India",19,Active,W,0
+Convex,B2B Software and Services -> Sales,"San Francisco, CA, USA",19,Active,W,0
+Dagger,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,W,0
+Gordian Software,"B2B Software and Services -> Engineering, Product and Design","Bellevue, WA, USA",19,Active,W,0
+Eclipse Foods,Consumer -> Food and Beverage,"Oakland, CA, USA",19,Active,W,0
+54Gene,Healthcare -> Consumer Health and Wellness,"Lagos, LA, Nigeria",19,Active,W,0
+Ashby,B2B Software and Services -> Recruiting and Talent,Remote,19,Active,W,0
+Doppler,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Active,W,0
+ZeroDown,Real Estate and Construction -> Housing and Real Estate,Remote,19,Active,W,0
+Nabis (Siban Holdings Inc.),B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",19,Active,W,0
+JuziBot,"B2B Software and Services -> Engineering, Product and Design","Beijing, Beijing, China",19,Active,W,0
+Searchlight,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",19,Active,W,0
+Schoolable,Education,"Lagos, LA, Nigeria",19,Active,W,0
+Buy Me a Coffee,Consumer -> Content,Remote,19,Active,W,0
+Catch,Financial Technology -> Consumer Finance,"New York, NY, USA",19,Active,W,0
+Modoo Technology,Healthcare -> Consumer Health and Wellness,"Beijing, Beijing, China",19,Active,W,0
+Memfault,B2B Software and Services -> Analytics,"San Francisco, CA, USA",19,Active,W,0
+YourChoice Therapeutics,Healthcare -> Therapeutics,"Berkeley, CA, USA",19,Active,W,0
+Taali Inc,Consumer -> Food and Beverage,"New York, NY, USA",19,Active,W,0
+NaturAll Club,Consumer -> Food and Beverage,"Philadelphia, PA, USA",19,Active,W,0
+rct AI,Consumer -> Content,"Los Angeles, CA, USA",19,Active,W,0
+Numero,Financial Technology,Remote,19,Active,W,0
+1910 Genetics,Healthcare -> Therapeutics,"Cambridge, MA, USA",19,Active,W,0
+Truora,B2B Software and Services -> Operations,"Cali, Valle del Cauca, Colombia",19,Active,W,0
+Withfriends,Consumer -> Social,"New York, NY, USA",19,Active,W,0
+Cosmic,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,W,0
+FIRST,B2B Software and Services -> Operations,Remote,19,Active,W,0
+VertoFX,Financial Technology -> Banking and Exchange,"London, England, United Kingdom",19,Active,W,0
+Tailor-ED,Education,"Tel Aviv-Yafo, Tel Aviv District, Israel",19,Active,W,0
+Latchel,B2B Software and Services -> Operations,Remote,19,Active,W,0
+Inito,Healthcare -> Consumer Health and Wellness,"Bengaluru, KA, India",19,Active,W,0
+Globe,Financial Technology -> Banking and Exchange,Remote,19,Active,W,0
+VotingWorks,Government,Remote,19,Active,W,0
+Mars Auto,Industrials -> Automotive,"Seoul, South Korea",19,Active,W,0
+Dockup,"B2B Software and Services -> Engineering, Product and Design","Mountain View, CA, USA",19,Active,W,0
+Rune,Consumer -> Gaming,"San Francisco, CA, USA",19,Active,W,0
+Cuanto,Financial Technology -> Payments,Remote,19,Active,W,0
+Pronto,Consumer -> Transportation Services,"Mexico City, CDMX, Mexico",19,Active,W,0
+Pulse Active Stations Network,Healthcare -> Consumer Health and Wellness,India,19,Active,W,0
+Cityfurnish,Consumer -> Home and Personal,"New Delhi, DL, India",19,Active,W,0
+Glide,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,W,0
+Lezzoo,Consumer -> Food and Beverage,"Erbil, Kurdistan Region, Iraq",19,Active,W,0
+Emi Labs,B2B Software and Services -> Recruiting and Talent,Remote,19,Active,W,0
+Bentocart,Consumer -> Food and Beverage,"San Francisco, CA, USA",19,Active,W,0
+Wallets,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",19,Active,W,0
+CredPal,Financial Technology -> Credit and Lending,"Lagos, LA, Nigeria",19,Active,W,0
+MyScoot,"Consumer -> Travel, Leisure and Tourism","New Delhi, DL, India",19,Active,W,0
+Keynua,B2B Software and Services -> Productivity,Remote,19,Active,W,0
+Edyst,Education,"Hyderabad, Telangana, India",19,Active,W,0
+AccioJob,Education,"Gurugram, HR, India",19,Active,W,0
+Shiok Meats,Healthcare -> Industrial Bio,"Singapore, Singapore",19,Active,W,0
+NALA,Financial Technology -> Banking and Exchange,Remote,19,Active,W,0
+Mudrex,Financial Technology -> Asset Management,"Mountain View, CA, USA",19,Active,W,0
+Capture,B2B Software and Services -> Productivity,Remote,19,Active,W,0
+AmpUp,Consumer -> Home and Personal,"Cupertino, CA, USA",19,Active,W,0
+XGenomes,Healthcare -> Diagnostics,"Cambridge, MA, USA",19,Active,W,0
+Saratoga Energy,Industrials -> Climate,"Berkeley, CA, USA",19,Active,W,0
+Upsolve,Financial Technology -> Consumer Finance,"New York, NY, USA",19,Active,W,0
+Our World in Data,Education,Remote,19,Active,W,0
+Traverse Technologies,B2B Software and Services -> Operations,"Singapore, Singapore",19,Active,W,0
+Superb AI,"B2B Software and Services -> Engineering, Product and Design","San Mateo, CA, USA",19,Active,W,0
+Heart Aerospace,Industrials -> Aviation and Space,"Gothenburg, VÃ¤stra GÃ¶taland County, Sweden",19,Active,W,0
+Reelables,Industrials -> Manufacturing and Robotics,,19,Active,W,0
+"Volta Labs, Inc.",Healthcare -> Industrial Bio,"Cambridge, MA, USA",19,Active,W,0
+JetPack Aviation,Industrials -> Aviation and Space,"Los Angeles, CA, USA",19,Active,W,0
+Boundary Layer Technologies,Industrials -> Climate,"Alameda, CA, USA",19,Active,W,0
+Wanderlog,Consumer -> Content,"San Francisco, CA, USA",19,Active,W,0
+Aura Vision,B2B Software and Services -> Retail,"London, England, United Kingdom",19,Active,W,0
+DailyDoctor,Healthcare,Remote,19,Active,W,0
+Instapath Inc.,Healthcare -> Diagnostics,"Houston, TX, USA",19,Active,W,0
+Rebank,Financial Technology -> Payments,"London, England, United Kingdom",19,Active,W,0
+Fuse,Financial Technology,"New York, NY, USA",19,Active,W,0
+CareerTu,Education,"New York, NY, USA",19,Active,W,0
+Ravn,Government,"San Francisco, CA, USA",19,Active,W,0
+PNOÄ’,Healthcare -> Healthcare Services,"Athens, Greece",19,Active,W,0
+Pyxai,B2B Software and Services -> Recruiting and Talent,Remote,19,Active,W,0
+Qwest,"Consumer -> Travel, Leisure and Tourism","Los Angeles, CA, USA",19,Active,W,0
+Landed,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",19,Active,W,0
+Intact Therapeutics,Healthcare -> Therapeutics,"Palo Alto, CA, USA",19,Active,W,0
+Mobot,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",19,Active,W,0
+AuroraQ,Industrials -> Manufacturing and Robotics,"Waterloo, ON, Canada",19,Active,W,0
+Excepgen,Healthcare -> Therapeutics,"San Francisco, CA, USA",19,Active,W,0
+Handle.com,B2B Software and Services -> Finance and Accounting,"San Francisco, CA, USA",19,Active,W,0
+Bunkerhill Health,Healthcare -> Healthcare Services,"Palo Alto, CA, USA",19,Active,W,0
+Maitian.ai,B2B Software and Services -> Retail,"Singapore, Singapore",19,Active,W,0
+Termius,B2B Software and Services -> Security,Remote,19,Active,W,0
+Supernova,"B2B Software and Services -> Engineering, Product and Design","Prague, Prague, Czechia",19,Active,W,0
+Probably Genetic,Healthcare -> Diagnostics,"San Francisco, CA, USA",19,Active,W,0
+Okteto,B2B Software and Services -> Infrastructure,Remote,19,Active,W,0
+Bensen,"B2B Software and Services -> Engineering, Product and Design","Boston, MA, USA",19,Active,W,0
+Atomic Alchemy,Industrials -> Manufacturing and Robotics,"Idaho Falls, ID, USA",19,Active,W,0
+ResistanceBio,Healthcare -> Therapeutics,"Menlo Park, CA, USA",19,Active,W,0
+Switchboard,B2B Software and Services -> Supply Chain and Logistics,"Vancouver, BC, Canada",19,Active,W,0
+AI Insurance,Financial Technology -> Insurance,"San Francisco, CA, USA",19,Active,W,0
+Demodesk,B2B Software and Services -> Sales,"Munich, BY, Germany",19,Active,W,0
+Avo,B2B Software and Services -> Analytics,"San Francisco, CA, USA",19,Active,W,0
+Forage,B2B Software and Services -> Recruiting and Talent,Remote,19,Active,W,0
+Sapling.ai,B2B Software and Services -> Productivity,"San Francisco, CA, USA",19,Active,W,0
+WeatherCheck,Financial Technology -> Insurance,"Louisville, KY, USA",19,Active,W,0
+Basilica,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Active,W,0
+Community Phone Company,Consumer -> Home and Personal,Remote,19,Active,W,0
+Thrive Agric,Industrials -> Agriculture,"Abuja, Federal Capital Territory, Nigeria",19,Active,W,0
+TAILORNOVA /COUTURME,Consumer -> Apparel and Cosmetics,"San Mateo, CA, USA",19,Active,W,0
+Coursedog,B2B Software and Services -> Operations,Remote,19,Active,W,0
+GoLinks,B2B Software and Services -> Productivity,Remote,19,Active,W,0
+Windwalk,Consumer -> Gaming,Remote,19,Active,W,0
+LEAH Labs,Healthcare -> Therapeutics,"Rochester, MN, USA",19,Active,W,0
+Avalanche,B2B Software and Services -> Marketing,"San Francisco, CA, USA",19,Active,W,0
+MedCrypt,Healthcare -> Healthcare IT,"San Diego, CA, USA",19,Active,W,0
+BrainKey,Healthcare -> Diagnostics,"San Francisco, CA, USA",19,Active,W,0
+Hatch,B2B Software and Services -> Sales,"Richmond, VA, USA",19,Active,W,0
+FLOWER CO.,Consumer -> Home and Personal,"Los Angeles, CA, USA",19,Active,W,0
+Portal Entryways,B2B Software and Services -> Office Management,Remote,19,Active,W,0
+Nebullam (DBA Clayton Farms),Consumer -> Food and Beverage,"Ames, IA, USA",19,Active,W,0
+Ascen,B2B Software and Services -> Recruiting and Talent,Remote,19,Active,W,0
+Windsor,B2B Software and Services,Remote,19,Active,W,0
+PreFlight,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,W,0
+Sidr.io,B2B Software and Services -> Productivity,Remote,19,Active,W,0
+SciTok,Consumer,Remote,19,Active,W,0
+Dyneti Technologies,B2B Software and Services -> Security,"San Francisco, CA, USA",19,Active,W,0
+Sorting Robotics,B2B Software and Services -> Supply Chain and Logistics,"Los Angeles, CA, USA",19,Active,W,0
+Sunsama,B2B Software and Services -> Productivity,Remote,19,Active,W,0
+Spire Law,B2B Software and Services -> Legal,"Orlando, FL, USA",19,Active,W,0
+DevFlight,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,W,0
+SpaceRyde,Industrials -> Aviation and Space,"Toronto, ON, Canada",19,Active,W,0
+Centaur Labs,Healthcare -> Healthcare IT,"Boston, MA, USA",19,Active,W,0
+Ultralight,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Active,W,0
+Bottomless,Consumer -> Food and Beverage,"Seattle, WA, USA",19,Active,W,0
+Kopa,Real Estate and Construction -> Housing and Real Estate,Remote,19,Active,W,0
+Keeper,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",19,Active,W,0
+Insight,Consumer,Remote,19,Active,W,0
+AllSome Fulfillment,B2B Software and Services -> Supply Chain and Logistics,"Shenzhen, Guangdong, China",19,Active,W,0
+Positive,B2B Software and Services -> Supply Chain and Logistics,"San Francisco, CA, USA",19,Active,W,0
+The Juggernaut,Consumer -> Content,Remote,19,Active,W,0
+Geosite,B2B Software and Services -> Operations,"Palo Alto, CA, USA",19,Active,W,0
+Brick Health,Healthcare -> Healthcare IT,Remote,19,Active,W,0
+Canopy (was Encarte),Financial Technology -> Payments,"San Francisco, CA, USA",19,Active,W,0
+Parker,Financial Technology -> Banking and Exchange,"San Francisco, CA, USA",19,Active,W,0
+Intelline,Industrials -> Manufacturing and Robotics,"Waterloo, ON, Canada",19,Active,W,0
+Flockjay,B2B Software and Services -> Sales,Remote,19,Active,W,0
+Trexo Robotics,Industrials -> Manufacturing and Robotics,"Toronto, ON, Canada",19,Active,W,0
+Taobotics,Industrials -> Manufacturing and Robotics,"Shenzhen, Guangdong, China",19,Active,W,0
+Woody Library,Consumer -> Home and Personal,"Beijing, Beijing, China",19,Active,W,0
+Overview,B2B Software and Services -> Operations,"San Francisco, CA, USA",19,Active,W,0
+Balto,Consumer -> Gaming,"San Francisco, CA, USA",19,Acquired,W,1
+Accept.inc (formerly BoardRE),Financial Technology -> Credit and Lending,"Denver, CO, USA",19,Acquired,W,1
+WorkClout,B2B Software and Services -> Supply Chain and Logistics,"Los Angeles, CA, USA",19,Acquired,W,1
+Allure Systems,B2B Software and Services -> Retail,"New York, NY, USA",19,Acquired,W,1
+AXDRAFT,B2B Software and Services -> Legal,"Frankfurt, HE, Germany",19,Acquired,W,1
+Slapdash,B2B Software and Services -> Productivity,Remote,19,Acquired,W,1
+Seawise Capital,Financial Technology -> Credit and Lending,"New Delhi, DL, India",19,Acquired,W,1
+Cocoon,Consumer -> Social,"San Francisco, CA, USA",19,Acquired,W,1
+Doorport,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",19,Acquired,W,1
+Askdata,B2B Software and Services -> Analytics,"San Francisco, CA, USA",19,Acquired,W,1
+Elph,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Acquired,W,1
+Docbot,Healthcare -> Healthcare IT,"Los Angeles, CA, USA",19,Acquired,W,1
+Visly,B2B Software and Services -> Infrastructure,Remote,19,Acquired,W,1
+InterPrime,B2B Software and Services -> Finance and Accounting,"Menlo Park, CA, USA",19,Acquired,W,1
+ZeroStorefront,B2B Software and Services -> Operations,Remote,19,Acquired,W,1
+Fuzzbuzz,B2B Software and Services -> Infrastructure,"San Francisco, CA, USA",19,Acquired,W,1
+Spiral Genetics,Healthcare -> Healthcare Services,"Seattle, WA, USA",19,Not Success,W,0
+Union Apartment,Real Estate and Construction -> Housing and Real Estate,"Los Angeles, CA, USA",19,Not Success,W,0
+Mage,"Consumer -> Travel, Leisure and Tourism",Remote,19,Not Success,W,0
+Basement,Consumer -> Social,"New York, NY, USA",19,Not Success,W,0
+Sublime Black,B2B Software and Services -> Security,,19,Not Success,W,0
+Datamode,"B2B Software and Services -> Engineering, Product and Design","Seattle, WA, USA",19,Not Success,W,0
+Hypnos,Consumer -> Food and Beverage,Remote,19,Not Success,W,0
+Cherry,B2B Software and Services -> Human Resources,"San Francisco, CA, USA",19,Not Success,W,0
+BlitzIQ,B2B Software and Services -> Sales,,19,Not Success,W,0
+PerShop,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",19,Not Success,W,0
+Docucharm,B2B Software and Services -> Operations,"Mountain View, CA, USA",19,Not Success,W,0
+Evo.Do,"B2B Software and Services -> Engineering, Product and Design","Tel Aviv-Yafo, Tel Aviv District, Israel",19,Not Success,W,0
+Simmer,"Consumer -> Travel, Leisure and Tourism","San Francisco, CA, USA",19,Not Success,W,0
+Adventurous Co,Consumer -> Virtual and Augmented Reality,"San Francisco, CA, USA",19,Not Success,W,0
+Herald,B2B Software and Services -> Office Management,Remote,19,Not Success,W,0
+Unicorn,Consumer -> Transportation Services,"Austin, TX, USA",19,Not Success,W,0
+Green Energy Exchange,Industrials -> Energy,"Austin, TX, USA",19,Not Success,W,0
+Comradery,B2B Software and Services -> Productivity,"San Francisco, CA, USA",19,Not Success,W,0
+Pengram,B2B Software and Services -> Human Resources,"Santa Clara, CA, USA",19,Not Success,W,0
+Vectordash,Consumer -> Gaming,"San Francisco, CA, USA",19,Not Success,W,0
+Volk Wireless,Consumer -> Home and Personal,,19,Not Success,W,0
+Allo,Consumer -> Social,"San Francisco, CA, USA",19,Not Success,W,0
+Vendr.com,B2B Software and Services -> Operations,"Boston, MA, USA",19,Active,S,0
+Gather,Consumer -> Social,Remote,19,Active,S,0
+TRM Labs,B2B Software and Services -> Security,Remote,19,Active,S,0
+Odeko,B2B Software and Services,"New York, NY, USA",19,Active,S,0
+Vouch,Financial Technology -> Insurance,Remote,19,Active,S,0
+Hightouch,B2B Software and Services -> Operations,"San Francisco, CA, USA",19,Active,S,0
+Dover,B2B Software and Services -> Recruiting and Talent,"San Francisco, CA, USA",19,Active,S,0
+Asher Bio,Healthcare -> Therapeutics,"San Carlos, CA, USA",19,Active,S,0
+Breadfast,Consumer,"Cairo, Cairo Governorate, Egypt",19,Active,S,0
+Embrace,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+LAIKA,Consumer -> Home and Personal,"BogotÃ¡, Bogota, Colombia",19,Active,S,0
+Compound,Financial Technology -> Consumer Finance,"San Francisco, CA, USA",19,Active,S,0
+Ramen VR,Consumer -> Gaming,"San Francisco, CA, USA",19,Active,S,0
+Rutter,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Active,S,0
+Localyze,B2B Software and Services -> Human Resources,Remote,19,Active,S,0
+Curri,Real Estate and Construction -> Construction,"Ventura, CA, USA",19,Active,S,0
+Obie,Real Estate and Construction -> Housing and Real Estate,"Chicago, IL, USA",19,Active,S,0
+PayMongo,Financial Technology -> Payments,"Taguig, NCR, Philippines",19,Active,S,0
+treble.ai,B2B Software and Services -> Marketing,Remote,19,Active,S,0
+Elpha,Consumer -> Job and Career Services,Remote,19,Active,S,0
+Sequence Bio,Healthcare -> Drug Discovery and Delivery,"St. John's, NL, Canada",19,Active,S,0
+Odin,Consumer -> Content,Remote,19,Active,S,0
+Apurata,Financial Technology -> Credit and Lending,"Lima, Callao Region, Peru",19,Active,S,0
+Unflow,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+EPIC AEROSPACE,Industrials -> Aviation and Space,"Buenos Aires, CABA, Argentina",19,Active,S,0
+GitStart,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+Vorticity,Industrials -> Manufacturing and Robotics,"Redwood City, CA, USA",19,Active,S,0
+Debt Destroyer (Formerly Nomad Rides),Financial Technology -> Consumer Finance,"Los Angeles, CA, USA",19,Active,S,0
+Taskade,B2B Software and Services -> Productivity,"San Francisco, CA, USA",19,Active,S,0
+Index,B2B Software and Services -> Operations,"San Francisco, CA, USA",19,Active,S,0
+Deepnote,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+Aspect,"B2B Software and Services -> Engineering, Product and Design",,19,Active,S,0
+Coco Pago,Financial Technology -> Payments,Remote,19,Active,S,0
+Vitau,Healthcare -> Healthcare IT,"Mexico City, CDMX, Mexico",19,Active,S,0
+Flowbot,B2B Software and Services -> Infrastructure,"New York, NY, USA",19,Active,S,0
+zeroheight,"B2B Software and Services -> Engineering, Product and Design","London, England, United Kingdom",19,Active,S,0
+Mudafy,Real Estate and Construction -> Housing and Real Estate,"Buenos Aires, CABA, Argentina",19,Active,S,0
+Traces,B2B Software and Services -> Security,"Mountain View, CA, USA",19,Active,S,0
+Freshpaint,B2B Software and Services -> Infrastructure,Remote,19,Active,S,0
+InEvent,B2B Software and Services -> Marketing,Remote,19,Active,S,0
+Heru,Financial Technology,Remote,19,Active,S,0
+Tranqui Finanzas,Financial Technology -> Credit and Lending,Remote,19,Active,S,0
+Holy Grail,Industrials -> Climate,"CA, USA",19,Active,S,0
+Recidiviz,Government,"San Francisco, CA, USA",19,Active,S,0
+Trella,B2B Software and Services -> Supply Chain and Logistics,"Cairo, Cairo Governorate, Egypt",19,Active,S,0
+Multis,Financial Technology -> Banking and Exchange,"Paris, ÃŽle-de-France, France",19,Active,S,0
+Flux,Financial Technology -> Payments,"Mexico City, CDMX, Mexico",19,Active,S,0
+stoic.,Consumer -> Content,Remote,19,Active,S,0
+PredictLeads,B2B Software and Services -> Analytics,Remote,19,Active,S,0
+Eden Farm,B2B Software and Services -> Supply Chain and Logistics,"Jakarta, Jakarta, Indonesia",19,Active,S,0
+Gotrade,Financial Technology -> Consumer Finance,"Earth, TX, USA",19,Active,S,0
+Pepper,Consumer,"San Francisco, CA, USA",19,Active,S,0
+Demand Curve,Education,Remote,19,Active,S,0
+FamPay,Financial Technology -> Payments,"Bengaluru, KA, India",19,Active,S,0
+Namaste Business,B2B Software and Services -> Retail,"Bengaluru, KA, India",19,Active,S,0
+Khabri,Consumer -> Content,"New Delhi, DL, India",19,Active,S,0
+Digi-Prex,Healthcare -> Consumer Health and Wellness,"Hyderabad, Telangana, India",19,Active,S,0
+Vahan,B2B Software and Services -> Recruiting and Talent,"Bengaluru, KA, India",19,Active,S,0
+Boost Biomes,Industrials -> Agriculture,"Brisbane, CA, USA",19,Active,S,0
+Proof Trading,Financial Technology -> Banking and Exchange,"New York, NY, USA",19,Active,S,0
+Lokal,Consumer -> Content,"Bengaluru, KA, India",19,Active,S,0
+Binks,Consumer -> Apparel and Cosmetics,"Bengaluru, KA, India",19,Active,S,0
+Gaiascope,B2B Software and Services,Remote,19,Active,S,0
+LineLeap,Consumer -> Food and Beverage,"New York, NY, USA",19,Active,S,0
+CoLab,"B2B Software and Services -> Engineering, Product and Design","St. John's, NL, Canada",19,Active,S,0
+EARTH AI,Industrials -> Climate,"Sydney, NSW, Australia",19,Active,S,0
+Flow,B2B Software and Services -> Infrastructure,Remote,19,Active,S,0
+Wasmer,B2B Software and Services -> Infrastructure,Remote,19,Active,S,0
+Microverse,Education,Remote,19,Active,S,0
+spotLESS Materials,Industrials -> Manufacturing and Robotics,"State College, PA, USA",19,Active,S,0
+Kern Systems,Healthcare -> Industrial Bio,"Boston, MA, USA",19,Active,S,0
+Arpeggio Bio,Healthcare -> Drug Discovery and Delivery,"Boulder, CO, USA",19,Active,S,0
+DirectShifts,Healthcare -> Healthcare Services,"New York, NY, USA",19,Active,S,0
+Rosebud AI,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+Hatchways,B2B Software and Services -> Recruiting and Talent,"Toronto, ON, Canada",19,Active,S,0
+Adla,Consumer -> Apparel and Cosmetics,Remote,19,Active,S,0
+Million Marker,Healthcare -> Consumer Health and Wellness,"Berkeley, CA, USA",19,Active,S,0
+Flo Recruit,B2B Software and Services -> Recruiting and Talent,"Austin, TX, USA",19,Active,S,0
+Rainbow,Financial Technology -> Consumer Finance,"New York, NY, USA",19,Active,S,0
+basis,Real Estate and Construction -> Construction,Remote,19,Active,S,0
+Brave Care,Healthcare -> Healthcare Services,"Portland, OR, USA",19,Active,S,0
+Outtalent,Education,"San Francisco, CA, USA",19,Active,S,0
+Canix,B2B Software and Services -> Security,"San Francisco, CA, USA",19,Active,S,0
+Green Canopy NODE,Real Estate and Construction -> Housing and Real Estate,"Seattle, WA, USA",19,Active,S,0
+KubeSail,Consumer -> Consumer Electronics,Remote,19,Active,S,0
+Banner,Real Estate and Construction,"San Francisco, CA, USA",19,Active,S,0
+OpenReplay,B2B Software and Services -> Infrastructure,"Paris, ÃŽle-de-France, France",19,Active,S,0
+Zeta Surgical,Healthcare -> Medical Devices,"Boston, MA, USA",19,Active,S,0
+Fynn,Financial Technology -> Credit and Lending,"New York, NY, USA",19,Active,S,0
+Tandem,B2B Software and Services -> Productivity,"San Francisco, CA, USA",19,Active,S,0
+Nonu,Healthcare -> Consumer Health and Wellness,"Hyderabad, Telangana, India",19,Active,S,0
+UpEquity,Real Estate and Construction -> Housing and Real Estate,"Austin, TX, USA",19,Active,S,0
+Lumineye,Government,"Boise, ID, USA",19,Active,S,0
+Yummy Future,Industrials -> Manufacturing and Robotics,"Champaign, IL, USA",19,Active,S,0
+Kitekraft,Industrials -> Energy,"Munich, BY, Germany",19,Active,S,0
+Mindset Health,Healthcare -> Consumer Health and Wellness,"Melbourne, VIC, Australia",19,Active,S,0
+LunaSec,B2B Software and Services -> Security,Remote,19,Active,S,0
+GEn1E Lifesciences,Healthcare -> Therapeutics,"Palo Alto, CA, USA",19,Active,S,0
+Dashblock,"B2B Software and Services -> Engineering, Product and Design","Paris, ÃŽle-de-France, France",19,Active,S,0
+Prolific,B2B Software and Services,Remote,19,Active,S,0
+AudioFocus,Consumer -> Consumer Electronics,"Oakland, CA, USA",19,Active,S,0
+Soteris,Financial Technology -> Insurance,"San Francisco, CA, USA",19,Active,S,0
+Narrator,B2B Software and Services -> Infrastructure,Remote,19,Active,S,0
+Lucid Drone Tech,Industrials -> Drones,"Charlotte, NC, USA",19,Active,S,0
+Actiondesk,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Active,S,0
+Ever Loved,Consumer -> Home and Personal,"San Francisco, CA, USA",19,Active,S,0
+Intersect Labs,"B2B Software and Services -> Engineering, Product and Design","San Diego, CA, USA",19,Active,S,0
+Pair Team,Healthcare -> Healthcare Services,Remote,19,Active,S,0
+Hype and Vice,Consumer -> Apparel and Cosmetics,"Los Angeles, CA, USA",19,Active,S,0
+Zeal,Financial Technology,"San Francisco, CA, USA",19,Active,S,0
+Jupiter,Consumer -> Home and Personal,"San Francisco, CA, USA",19,Active,S,0
+Short Story,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",19,Active,S,0
+Juno College of Technology,Education,"Toronto, ON, Canada",19,Active,S,0
+Shift Health,Healthcare -> Healthcare Services,"Lehi, UT, USA",19,Active,S,0
+Mighty Health,Healthcare -> Consumer Health and Wellness,Remote,19,Active,S,0
+Legacy,Healthcare -> Consumer Health and Wellness,Remote,19,Active,S,0
+Well Principled,B2B Software and Services -> Supply Chain and Logistics,"St. Louis, MO, USA",19,Active,S,0
+Kraftful,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+communion,B2B Software and Services -> Marketing,"New York, NY, USA",19,Active,S,0
+Pillar,Consumer -> Content,"San Francisco, CA, USA",19,Active,S,0
+BuildStream,Real Estate and Construction -> Construction,"London, England, United Kingdom",19,Active,S,0
+Gamebytes,Consumer -> Gaming,"New York, NY, USA",19,Active,S,0
+Method Financial,Financial Technology -> Payments,"Austin, TX, USA",19,Active,S,0
+Heroic Story,Consumer -> Gaming,Remote,19,Active,S,0
+Courier,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Active,S,0
+Lofty,Real Estate and Construction -> Housing and Real Estate,Remote,19,Active,S,0
+Apero Health,Healthcare -> Healthcare IT,"San Francisco, CA, USA",19,Active,S,0
+Shiru,Healthcare -> Industrial Bio,"Emeryville, CA, USA",19,Active,S,0
+Cuboh,B2B Software and Services -> Retail,"Victoria, BC, Canada",19,Active,S,0
+MoFE,"Consumer -> Travel, Leisure and Tourism","New York, NY, USA",19,Active,S,0
+Dex,Consumer -> Home and Personal,Remote,19,Active,S,0
+PopSQL,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Active,S,0
+Playground AI,Consumer -> Home and Personal,Remote,19,Active,S,0
+Prenda,Education,Remote,19,Active,S,0
+Path,Financial Technology -> Consumer Finance,"New York, NY, USA",19,Active,S,0
+Together Software,B2B Software and Services -> Human Resources,"Toronto, ON, Canada",19,Active,S,0
+Beacons,Consumer -> Social,"San Francisco, CA, USA",19,Active,S,0
+Zippi,Financial Technology -> Credit and Lending,Remote,19,Active,S,0
+Wren,Industrials -> Climate,Remote,19,Active,S,0
+Forward,B2B Software and Services,"New York, NY, USA",19,Active,S,0
+Swadesh,Financial Technology -> Consumer Finance,"New York, NY, USA",19,Active,S,0
+Business Score,B2B Software and Services -> Operations,"London, England, United Kingdom",19,Acquired,S,1
+MyPetrolPump,B2B Software and Services -> Supply Chain and Logistics,"Bengaluru, KA, India",19,Acquired,S,1
+Wingman,B2B Software and Services -> Sales,"Bengaluru, KA, India",19,Acquired,S,1
+Data Mechanics,B2B Software and Services -> Infrastructure,"Paris, ÃŽle-de-France, France",19,Acquired,S,1
+Bouncer,"B2B Software and Services -> Engineering, Product and Design","Oakland, CA, USA",19,Acquired,S,1
+FeaturePeek,"B2B Software and Services -> Engineering, Product and Design",Remote,19,Acquired,S,1
+TaxProper,Real Estate and Construction,"Chicago, IL, USA",19,Acquired,S,1
+Sable,Financial Technology -> Consumer Finance,"New York, NY, USA",19,Acquired,S,1
+Voyage Biomedical,Healthcare -> Medical Devices,"Berkeley, CA, USA",19,Acquired,S,1
+Bayes,"B2B Software and Services -> Engineering, Product and Design","San Francisco, CA, USA",19,Acquired,S,1
+Palifer,Industrials -> Automotive,"San Jose, CA, USA",19,Acquired,S,1
+Covela,Financial Technology -> Insurance,"Mexico City, CDMX, Mexico",19,Not Success,S,0
+Valiu,Financial Technology -> Payments,Remote,19,Not Success,S,0
+Mipos.dev,B2B Software and Services -> Retail,"Mexico City, CDMX, Mexico",19,Not Success,S,0
+Alana,B2B Software and Services -> Recruiting and Talent,"Mexico City, CDMX, Mexico",19,Not Success,S,0
+Tensil,Industrials -> Manufacturing and Robotics,Remote,19,Not Success,S,0
+Blair,Financial Technology -> Credit and Lending,"San Francisco, CA, USA",19,Not Success,S,0
+Zergo,Healthcare -> Diagnostics,"Waterloo, ON, Canada",19,Not Success,S,0
+Lightwell,"B2B Software and Services -> Engineering, Product and Design","New York, NY, USA",19,Not Success,S,0
+Revel,Consumer -> Social,Remote,19,Not Success,S,0
+Lantern,B2B Software and Services -> Analytics,Remote,19,Not Success,S,0
+Encepheal Therapeutics,Healthcare -> Therapeutics,"Winston-Salem, NC, USA",19,Not Success,S,0
+Preclusio,B2B Software and Services -> Infrastructure,"Redwood City, CA, USA",19,Not Success,S,0
+Prompt,B2B Software and Services -> Infrastructure,,19,Not Success,S,0
+Souffle Club,Consumer -> Job and Career Services,Remote,19,Not Success,S,0
+ReverCare,B2B Software and Services -> Human Resources,"New York, NY, USA",19,Not Success,S,0
+Hey Healthcare,B2B Software and Services,Remote,19,Not Success,S,0
+Safely Finance,Consumer -> Home and Personal,"Mountain View, CA, USA",19,Not Success,S,0
+Vizy,Consumer -> Transportation Services,"San Francisco, CA, USA",19,Not Success,S,0
+Hutsy,Real Estate and Construction -> Housing and Real Estate,"New York, NY, USA",19,Not Success,S,0
+Fit to Form,Consumer -> Apparel and Cosmetics,"San Francisco, CA, USA",19,Not Success,S,0
+Pippin / Rent the Backyard,Real Estate and Construction -> Housing and Real Estate,"Oakland, CA, USA",19,Not Success,S,0
